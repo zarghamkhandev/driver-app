@@ -1,3 +1,22 @@
+@font-face {
+  font-family: "Mont";
+  src: url("../fonts/Mont-Semibold.ttf");
+  font-style: normal;
+  font-weight: 600;
+}
+@font-face {
+  font-family: "Montserrat";
+  src: url("../fonts/Montserrat-Regular.otf");
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Montserrat";
+  src: url("../fonts/Montserrat-Bold.otf");
+  font-style: normal;
+  font-weight: 700;
+}
+
 @tailwind base;
 
 @tailwind components;
