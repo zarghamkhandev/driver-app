@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/driver-app/static/css/main.59294f42.chunk.css",
+    "main.js": "/driver-app/static/js/main.80ccfa4f.chunk.js",
+    "main.js.map": "/driver-app/static/js/main.80ccfa4f.chunk.js.map",
+    "runtime-main.js": "/driver-app/static/js/runtime-main.86cc5742.js",
+    "runtime-main.js.map": "/driver-app/static/js/runtime-main.86cc5742.js.map",
+    "static/js/2.25e13076.chunk.js": "/driver-app/static/js/2.25e13076.chunk.js",
+    "static/js/2.25e13076.chunk.js.map": "/driver-app/static/js/2.25e13076.chunk.js.map",
+    "index.html": "/driver-app/index.html",
+    "precache-manifest.c507650cafe9b8e5aef0e8a04861d88c.js": "/driver-app/precache-manifest.c507650cafe9b8e5aef0e8a04861d88c.js",
+    "service-worker.js": "/driver-app/service-worker.js",
+    "static/css/main.59294f42.chunk.css.map": "/driver-app/static/css/main.59294f42.chunk.css.map",
+    "static/js/2.25e13076.chunk.js.LICENSE.txt": "/driver-app/static/js/2.25e13076.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86cc5742.js",
+    "static/js/2.25e13076.chunk.js",
+    "static/css/main.59294f42.chunk.css",
+    "static/js/main.80ccfa4f.chunk.js"
+  ]
+}
