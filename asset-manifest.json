@@ -1,22 +1,31 @@
 {
   "files": {
-    "main.css": "/driver-app/static/css/main.59294f42.chunk.css",
-    "main.js": "/driver-app/static/js/main.80ccfa4f.chunk.js",
-    "main.js.map": "/driver-app/static/js/main.80ccfa4f.chunk.js.map",
+    "main.css": "/driver-app/static/css/main.32f051f0.chunk.css",
+    "main.js": "/driver-app/static/js/main.06ad2a37.chunk.js",
+    "main.js.map": "/driver-app/static/js/main.06ad2a37.chunk.js.map",
     "runtime-main.js": "/driver-app/static/js/runtime-main.86cc5742.js",
     "runtime-main.js.map": "/driver-app/static/js/runtime-main.86cc5742.js.map",
     "static/js/2.25e13076.chunk.js": "/driver-app/static/js/2.25e13076.chunk.js",
     "static/js/2.25e13076.chunk.js.map": "/driver-app/static/js/2.25e13076.chunk.js.map",
     "index.html": "/driver-app/index.html",
-    "precache-manifest.c507650cafe9b8e5aef0e8a04861d88c.js": "/driver-app/precache-manifest.c507650cafe9b8e5aef0e8a04861d88c.js",
+    "precache-manifest.681ae5da9ee192ce7197519fea3ba30d.js": "/driver-app/precache-manifest.681ae5da9ee192ce7197519fea3ba30d.js",
     "service-worker.js": "/driver-app/service-worker.js",
-    "static/css/main.59294f42.chunk.css.map": "/driver-app/static/css/main.59294f42.chunk.css.map",
-    "static/js/2.25e13076.chunk.js.LICENSE.txt": "/driver-app/static/js/2.25e13076.chunk.js.LICENSE.txt"
+    "static/css/main.32f051f0.chunk.css.map": "/driver-app/static/css/main.32f051f0.chunk.css.map",
+    "static/js/2.25e13076.chunk.js.LICENSE.txt": "/driver-app/static/js/2.25e13076.chunk.js.LICENSE.txt",
+    "static/media/Hamburger.1deaae45.svg": "/driver-app/static/media/Hamburger.1deaae45.svg",
+    "static/media/Logo.cbbafe71.svg": "/driver-app/static/media/Logo.cbbafe71.svg",
+    "static/media/index.css": "/driver-app/static/media/Montserrat-Regular.92db9a07.otf",
+    "static/media/background-content.ed703776.svg": "/driver-app/static/media/background-content.ed703776.svg",
+    "static/media/background.fa156c0a.svg": "/driver-app/static/media/background.fa156c0a.svg",
+    "static/media/homepage-svg-1.27d7fe23.svg": "/driver-app/static/media/homepage-svg-1.27d7fe23.svg",
+    "static/media/homepage-svg-3.08c1e510.svg": "/driver-app/static/media/homepage-svg-3.08c1e510.svg",
+    "static/media/homepage-svg-4.80c110a7.svg": "/driver-app/static/media/homepage-svg-4.80c110a7.svg",
+    "static/media/line-drawing.6d798e9a.svg": "/driver-app/static/media/line-drawing.6d798e9a.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.86cc5742.js",
     "static/js/2.25e13076.chunk.js",
-    "static/css/main.59294f42.chunk.css",
-    "static/js/main.80ccfa4f.chunk.js"
+    "static/css/main.32f051f0.chunk.css",
+    "static/js/main.06ad2a37.chunk.js"
   ]
 }
