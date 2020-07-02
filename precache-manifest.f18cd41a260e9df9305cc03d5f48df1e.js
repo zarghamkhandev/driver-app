@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "84b445f2996914e004f75194699d3929",
+    "revision": "2a0e13deac680a89510ee539b7374d14",
     "url": "/driver-app/index.html"
   },
   {
-    "revision": "b20b8b930c92c457d31e",
+    "revision": "b4a0df468aefcd77a0f1",
     "url": "/driver-app/static/css/main.32f051f0.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/driver-app/static/js/2.25e13076.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b20b8b930c92c457d31e",
-    "url": "/driver-app/static/js/main.b2c6eb2e.chunk.js"
+    "revision": "b4a0df468aefcd77a0f1",
+    "url": "/driver-app/static/js/main.fe83cfd2.chunk.js"
   },
   {
     "revision": "0dcdc760ca9c3756778a",
@@ -60,8 +60,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/driver-app/static/media/homepage-svg-3.f61339d3.svg"
   },
   {
-    "revision": "80c110a7556d63c2b58acfa64a21bfba",
-    "url": "/driver-app/static/media/homepage-svg-4.80c110a7.svg"
+    "revision": "729ad088588e6ed572895cb544f9dea5",
+    "url": "/driver-app/static/media/homepage-svg-4.729ad088.svg"
   },
   {
     "revision": "6d798e9a323300d4ba291edb722fe371",
