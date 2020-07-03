@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b1068ad4e8ecb95de1c14571d7024ca9",
+    "revision": "60df0bc7c3ac0e8c301420779123515a",
     "url": "/driver-app/index.html"
   },
   {
-    "revision": "4b56c6c22e0f81aacce4",
-    "url": "/driver-app/static/css/main.43e1a82f.chunk.css"
+    "revision": "28e5376ced122ffec47d",
+    "url": "/driver-app/static/css/main.360c988c.chunk.css"
   },
   {
-    "revision": "c188725deb17f1a1e3e7",
-    "url": "/driver-app/static/js/2.25e13076.chunk.js"
+    "revision": "861247094100b71de6da",
+    "url": "/driver-app/static/js/2.21c824c7.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/driver-app/static/js/2.25e13076.chunk.js.LICENSE.txt"
+    "url": "/driver-app/static/js/2.21c824c7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4b56c6c22e0f81aacce4",
-    "url": "/driver-app/static/js/main.afe68e0a.chunk.js"
+    "revision": "28e5376ced122ffec47d",
+    "url": "/driver-app/static/js/main.19335df2.chunk.js"
   },
   {
     "revision": "0dcdc760ca9c3756778a",

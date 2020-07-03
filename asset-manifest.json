@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/driver-app/static/css/main.43e1a82f.chunk.css",
-    "main.js": "/driver-app/static/js/main.afe68e0a.chunk.js",
-    "main.js.map": "/driver-app/static/js/main.afe68e0a.chunk.js.map",
+    "main.css": "/driver-app/static/css/main.360c988c.chunk.css",
+    "main.js": "/driver-app/static/js/main.19335df2.chunk.js",
+    "main.js.map": "/driver-app/static/js/main.19335df2.chunk.js.map",
     "runtime-main.js": "/driver-app/static/js/runtime-main.86cc5742.js",
     "runtime-main.js.map": "/driver-app/static/js/runtime-main.86cc5742.js.map",
-    "static/js/2.25e13076.chunk.js": "/driver-app/static/js/2.25e13076.chunk.js",
-    "static/js/2.25e13076.chunk.js.map": "/driver-app/static/js/2.25e13076.chunk.js.map",
+    "static/js/2.21c824c7.chunk.js": "/driver-app/static/js/2.21c824c7.chunk.js",
+    "static/js/2.21c824c7.chunk.js.map": "/driver-app/static/js/2.21c824c7.chunk.js.map",
     "index.html": "/driver-app/index.html",
-    "precache-manifest.2dc855a667c90121c773b8461abce173.js": "/driver-app/precache-manifest.2dc855a667c90121c773b8461abce173.js",
+    "precache-manifest.a635380e34dc8b42aba613f5983fbd66.js": "/driver-app/precache-manifest.a635380e34dc8b42aba613f5983fbd66.js",
     "service-worker.js": "/driver-app/service-worker.js",
-    "static/css/main.43e1a82f.chunk.css.map": "/driver-app/static/css/main.43e1a82f.chunk.css.map",
-    "static/js/2.25e13076.chunk.js.LICENSE.txt": "/driver-app/static/js/2.25e13076.chunk.js.LICENSE.txt",
+    "static/css/main.360c988c.chunk.css.map": "/driver-app/static/css/main.360c988c.chunk.css.map",
+    "static/js/2.21c824c7.chunk.js.LICENSE.txt": "/driver-app/static/js/2.21c824c7.chunk.js.LICENSE.txt",
     "static/media/Hamburger.1deaae45.svg": "/driver-app/static/media/Hamburger.1deaae45.svg",
     "static/media/Logo.cbbafe71.svg": "/driver-app/static/media/Logo.cbbafe71.svg",
     "static/media/index.css": "/driver-app/static/media/Montserrat-Regular.92db9a07.otf",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.86cc5742.js",
-    "static/js/2.25e13076.chunk.js",
-    "static/css/main.43e1a82f.chunk.css",
-    "static/js/main.afe68e0a.chunk.js"
+    "static/js/2.21c824c7.chunk.js",
+    "static/css/main.360c988c.chunk.css",
+    "static/js/main.19335df2.chunk.js"
   ]
 }
