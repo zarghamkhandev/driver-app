@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "abb2d75546d2a064f00697d24cde2f6f",
+    "revision": "17cadcbeaf21e305a477c80bcddbe1ee",
     "url": "/driver-app/index.html"
   },
   {
-    "revision": "318bab3f94277dcd3ed4",
+    "revision": "8742933f750fd95fcbfd",
     "url": "/driver-app/static/css/main.32f051f0.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/driver-app/static/js/2.2138cd97.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "318bab3f94277dcd3ed4",
-    "url": "/driver-app/static/js/main.48f95d80.chunk.js"
+    "revision": "8742933f750fd95fcbfd",
+    "url": "/driver-app/static/js/main.026a0390.chunk.js"
   },
   {
     "revision": "0dcdc760ca9c3756778a",
@@ -44,12 +44,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/driver-app/static/media/Montserrat-Regular.92db9a07.otf"
   },
   {
-    "revision": "ed70377666ff81f23d6113ea427a15e7",
-    "url": "/driver-app/static/media/background-content.ed703776.svg"
+    "revision": "f58fe3e3e1e93d85e81b4a60880ec06a",
+    "url": "/driver-app/static/media/background-content.f58fe3e3.svg"
   },
   {
     "revision": "fa156c0a56f9aadc1e73f6d5a98cb487",
     "url": "/driver-app/static/media/background.fa156c0a.svg"
+  },
+  {
+    "revision": "2c08412cd24fee532dfd02d81872fca5",
+    "url": "/driver-app/static/media/homepage-svg-2.2c08412c.svg"
   },
   {
     "revision": "f61339d38adc72503cb84040951351cf",
