@@ -12,6 +12,12 @@
 }
 @font-face {
   font-family: "Montserrat";
+  src: url("../fonts/Montserrat-Medium.otf");
+  font-style: normal;
+  font-weight: 500;
+}
+@font-face {
+  font-family: "Montserrat";
   src: url("../fonts/Montserrat-Bold.otf");
   font-style: normal;
   font-weight: 700;
@@ -22,3 +28,12 @@
 @tailwind components;
 
 @tailwind utilities;
+
+.scrolled {
+  position: fixed;
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.25);
+  top: 0;
+  width: 100%;
+  background-color: #232323;
+ 
+}
