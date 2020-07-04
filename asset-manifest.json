@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/driver-app/static/css/main.37199bdf.chunk.css",
-    "main.js": "/driver-app/static/js/main.914347c1.chunk.js",
-    "main.js.map": "/driver-app/static/js/main.914347c1.chunk.js.map",
-    "runtime-main.js": "/driver-app/static/js/runtime-main.86cc5742.js",
-    "runtime-main.js.map": "/driver-app/static/js/runtime-main.86cc5742.js.map",
-    "static/js/2.f2299fc8.chunk.js": "/driver-app/static/js/2.f2299fc8.chunk.js",
-    "static/js/2.f2299fc8.chunk.js.map": "/driver-app/static/js/2.f2299fc8.chunk.js.map",
-    "index.html": "/driver-app/index.html",
-    "precache-manifest.1303324ca678880fcf99852ae49aab62.js": "/driver-app/precache-manifest.1303324ca678880fcf99852ae49aab62.js",
-    "service-worker.js": "/driver-app/service-worker.js",
-    "static/css/main.37199bdf.chunk.css.map": "/driver-app/static/css/main.37199bdf.chunk.css.map",
-    "static/js/2.f2299fc8.chunk.js.LICENSE.txt": "/driver-app/static/js/2.f2299fc8.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/driver-app/static/media/Montserrat-Regular.92db9a07.otf",
-    "static/media/ScrollButton.53d7447d.svg": "/driver-app/static/media/ScrollButton.53d7447d.svg"
+    "main.css": "./static/css/main.92a96edb.chunk.css",
+    "main.js": "./static/js/main.4f704f7a.chunk.js",
+    "main.js.map": "./static/js/main.4f704f7a.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.4afdeb6a.js",
+    "runtime-main.js.map": "./static/js/runtime-main.4afdeb6a.js.map",
+    "static/js/2.f2299fc8.chunk.js": "./static/js/2.f2299fc8.chunk.js",
+    "static/js/2.f2299fc8.chunk.js.map": "./static/js/2.f2299fc8.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.4d73219ec39a518c60b0f0f5bba182a5.js": "./precache-manifest.4d73219ec39a518c60b0f0f5bba182a5.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.92a96edb.chunk.css.map": "./static/css/main.92a96edb.chunk.css.map",
+    "static/js/2.f2299fc8.chunk.js.LICENSE.txt": "./static/js/2.f2299fc8.chunk.js.LICENSE.txt",
+    "static/media/index.css": "./static/media/Montserrat-Regular.92db9a07.otf",
+    "static/media/ScrollButton.53d7447d.svg": "./static/media/ScrollButton.53d7447d.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.86cc5742.js",
+    "static/js/runtime-main.4afdeb6a.js",
     "static/js/2.f2299fc8.chunk.js",
-    "static/css/main.37199bdf.chunk.css",
-    "static/js/main.914347c1.chunk.js"
+    "static/css/main.92a96edb.chunk.css",
+    "static/js/main.4f704f7a.chunk.js"
   ]
 }
