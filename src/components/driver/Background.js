@@ -2,10 +2,10 @@ import * as React from "react";
 
 function SvgComponent(props) {
   return (
-    <svg width={1920} height={4659.71} viewBox="0 0 1920 4659.71" {...props}>
-      <g id="prefix__Layer_2" data-name="Layer 2">
-        <g fill="none" id="prefix__Layer_1-2" data-name="Layer 1">
-          <g id="prefix__LinePath">
+    <svg width={"100%"}  viewBox="0 0 1920 4659.71" {...props}>
+      <g id="driverBackground__Layer_2" data-name="Layer 2">
+        <g fill="none" id="driverBackground__Layer_1-2" data-name="Layer 1">
+          <g id="driverBackground__LinePath">
             <path
               stroke="#999"
               strokeLinecap="round"

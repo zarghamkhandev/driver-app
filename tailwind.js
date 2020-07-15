@@ -16,6 +16,10 @@ module.exports = {
       current: "currentColor",
       custom: {
         red: "#E50000",
+        redlight:"#FF4A4A",
+        gray:"#333333",
+        black: "#232323",
+        lightgray:"#B3B3B3"
       },
       black: "#000",
       white: "#fff",
@@ -239,6 +243,7 @@ module.exports = {
     fontFamily: {
       sans: [
         "Montserrat",
+       
         "system-ui",
         "-apple-system",
         "BlinkMacSystemFont",
@@ -255,6 +260,7 @@ module.exports = {
       ],
       serif: ["Georgia", "Cambria", '"Times New Roman"', "Times", "serif"],
       mono: [
+        "Mont",
         "Menlo",
         "Monaco",
         "Consolas",
@@ -264,6 +270,20 @@ module.exports = {
       ],
     },
     fontSize: {
+      "0.75vw":"0.75vw",
+      "0.9vw":"0.9vw",
+      "1vw":"1vw",
+      "1.1vw":"1.1vw",
+      "1.25vw":"1.25vw",
+      "1.40vw":"1.40vw",
+      "1.5vw":"1.5vw",
+      "1.75vw":"1.75vw",
+      "2vw":"2vw",
+      "2.5vw":"2.5vw",
+      "3vw":"3vw",
+      "3.5vw":"3.5vw",
+      "8":"8px",
+      "10":"10px",
       xs: "0.75rem",
       sm: "0.875rem",
       base: "1rem",

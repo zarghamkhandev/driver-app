@@ -1,11 +1,12 @@
 import * as React from "react";
+import {motion} from "framer-motion"
 
 function SvgComponent(props) {
   return (
-    <svg width={"100%"}  viewBox="60 0 1036 1111.64" {...props}>
+    <svg width={"100%"} viewBox="60 0 1036 1111.64" {...props}>
       <defs>
         <linearGradient
-          id="sidepanel1__linear-gradient"
+          id="homepagesidepanel11__linear-gradient"
           x1={2758.8}
           y1={429.44}
           x2={2675.33}
@@ -18,7 +19,7 @@ function SvgComponent(props) {
           <stop offset={0.9} stopColor="#f2f2f2" />
         </linearGradient>
         <linearGradient
-          id="sidepanel1__linear-gradient-2"
+          id="homepagesidepanel11__linear-gradient-2"
           x1={2540.67}
           y1={1497.16}
           x2={2563.85}
@@ -30,7 +31,7 @@ function SvgComponent(props) {
           <stop offset={1} stopColor="#b91818" />
         </linearGradient>
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_29"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_29"
           data-name="New Gradient Swatch copy 29"
           x1={464.15}
           y1={399.8}
@@ -42,15 +43,15 @@ function SvgComponent(props) {
           <stop offset={1} stopColor="#a11a1a" />
         </linearGradient>
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_29-2"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_29-2"
           x1={267.16}
           y1={433.42}
           x2={483.65}
           y2={384.89}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_29"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_29"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_31"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_31"
           data-name="New Gradient Swatch copy 31"
           x1={423.25}
           y1={464.01}
@@ -63,74 +64,74 @@ function SvgComponent(props) {
           <stop offset={1} stopColor="#d68787" />
         </linearGradient>
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_31-2"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_31-2"
           x1={433.28}
           y1={463.14}
           x2={433.28}
           y2={332.28}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_31"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_31"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_31-3"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_31-3"
           x1={443.31}
           y1={462.26}
           x2={443.31}
           y2={331.41}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_31"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_31"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_31-4"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_31-4"
           x1={5562.24}
           y1={455.33}
           x2={5562.24}
           y2={325.64}
           gradientTransform="matrix(-1 0 0 1 6049.31 0)"
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_31"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_31"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_31-5"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_31-5"
           x1={5572.12}
           y1={454.38}
           x2={5572.12}
           y2={324.7}
           gradientTransform="matrix(-1 0 0 1 6049.31 0)"
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_31"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_31"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_31-6"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_31-6"
           x1={5582}
           y1={453.44}
           x2={5582}
           y2={323.75}
           gradientTransform="matrix(-1 0 0 1 6049.31 0)"
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_31"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_31"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_29-3"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_29-3"
           x1={500.11}
           y1={226.23}
           x2={452.05}
           y2={317.81}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_29"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_29"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_29-4"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_29-4"
           x1={463.69}
           y1={312.15}
           x2={529.53}
           y2={292.44}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_29"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_29"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_29-5"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_29-5"
           x1={400.13}
           y1={320.05}
           x2={485.7}
           y2={300.87}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_29"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_29"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_32"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_32"
           data-name="New Gradient Swatch copy 32"
           x1={434.39}
           y1={314.44}
@@ -145,74 +146,74 @@ function SvgComponent(props) {
           <stop offset={1} stopColor="#d68787" />
         </linearGradient>
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_32-2"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_32-2"
           x1={441.66}
           y1={317.96}
           x2={441.66}
           y2={303.79}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_32"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_32"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_32-3"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_32-3"
           x1={448.94}
           y1={321.48}
           x2={448.94}
           y2={307.35}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_32"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_32"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_32-4"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_32-4"
           x1={5554.86}
           y1={314.24}
           x2={5554.86}
           y2={300.22}
           gradientTransform="matrix(-1 0 0 1 6031.13 0)"
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_32"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_32"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_32-5"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_32-5"
           x1={5562.16}
           y1={317.86}
           x2={5562.16}
           y2={303.79}
           gradientTransform="matrix(-1 0 0 1 6031.13 0)"
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_32"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_32"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_32-6"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_32-6"
           x1={5569.45}
           y1={321.48}
           x2={5569.45}
           y2={307.35}
           gradientTransform="matrix(-1 0 0 1 6031.13 0)"
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_32"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_32"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_29-6"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_29-6"
           x1={483.27}
           y1={240.13}
           x2={453.33}
           y2={297.2}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_29"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_29"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_29-7"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_29-7"
           x1={459.7}
           y1={293.08}
           x2={493.86}
           y2={282.85}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_29"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_29"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_29-8"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_29-8"
           x1={426.76}
           y1={297.18}
           x2={471.15}
           y2={287.23}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_29"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_29"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_30"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_30"
           data-name="New Gradient Swatch copy 30"
           x1={460.07}
           y1={288.4}
@@ -226,216 +227,216 @@ function SvgComponent(props) {
           <stop offset={1} stopColor="#cc8282" />
         </linearGradient>
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_30-2"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_30-2"
           x1={429.89}
           y1={291.9}
           x2={467.89}
           y2={283.38}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_30"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_30"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_29-9"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_29-9"
           x1={469.84}
           y1={255.73}
           x2={454.34}
           y2={285.27}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_29"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_29"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_29-10"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_29-10"
           x1={409.96}
           y1={500.02}
           x2={517.55}
           y2={467.8}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_29"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_29"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_29-11"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_29-11"
           x1={300.4}
           y1={512.88}
           x2={439.85}
           y2={481.62}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_29"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_29"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_29-12"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_29-12"
           x1={445.17}
           y1={380.54}
           x2={389.64}
           y2={486.37}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_29"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_29"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_29-13"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_29-13"
           x1={402.63}
           y1={427.23}
           x2={563.16}
           y2={379.16}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_29"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_29"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_29-14"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_29-14"
           x1={269.22}
           y1={446.62}
           x2={479.28}
           y2={399.53}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_29"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_29"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_31-7"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_31-7"
           x1={372}
           y1={489.14}
           x2={372}
           y2={364.84}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_31"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_31"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_31-9"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_31-9"
           x1={372}
           y1={489.14}
           x2={372}
           y2={364.84}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_31"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_31"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_31-10"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_31-10"
           x1={372}
           y1={489.14}
           x2={372}
           y2={364.84}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_31"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_31"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_31-11"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_31-11"
           x1={372}
           y1={489.14}
           x2={372}
           y2={364.84}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_31"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_31"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_31-13"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_31-13"
           x1={372}
           y1={489.14}
           x2={372}
           y2={364.84}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_31"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_31"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_31-15"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_31-15"
           x1={372}
           y1={489.14}
           x2={372}
           y2={364.84}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_31"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_31"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_31-17"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_31-17"
           x1={372}
           y1={489.14}
           x2={372}
           y2={364.84}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_31"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_31"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_31-18"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_31-18"
           x1={372}
           y1={489.14}
           x2={372}
           y2={364.84}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_31"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_31"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_31-20"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_31-20"
           x1={-2804.54}
           y1={483.6}
           x2={-2804.54}
           y2={357.73}
           gradientTransform="matrix(-1 0 0 1 -2389.38 0)"
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_31"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_31"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_31-21"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_31-21"
           x1={-2804.54}
           y1={483.6}
           x2={-2804.54}
           y2={357.73}
           gradientTransform="matrix(-1 0 0 1 -2389.38 0)"
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_31"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_31"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_31-22"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_31-22"
           x1={-2804.54}
           y1={483.6}
           x2={-2804.54}
           y2={357.73}
           gradientTransform="matrix(-1 0 0 1 -2389.38 0)"
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_31"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_31"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_31-23"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_31-23"
           x1={-2804.54}
           y1={483.6}
           x2={-2804.54}
           y2={357.73}
           gradientTransform="matrix(-1 0 0 1 -2389.38 0)"
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_31"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_31"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_31-25"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_31-25"
           x1={-2804.54}
           y1={483.6}
           x2={-2804.54}
           y2={357.73}
           gradientTransform="matrix(-1 0 0 1 -2389.38 0)"
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_31"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_31"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_31-26"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_31-26"
           x1={-2804.54}
           y1={483.6}
           x2={-2804.54}
           y2={357.73}
           gradientTransform="matrix(-1 0 0 1 -2389.38 0)"
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_31"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_31"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_31-29"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_31-29"
           x1={-2804.54}
           y1={483.6}
           x2={-2804.54}
           y2={357.73}
           gradientTransform="matrix(-1 0 0 1 -2389.38 0)"
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_31"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_31"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_31-30"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_31-30"
           x1={-2804.54}
           y1={483.6}
           x2={-2804.54}
           y2={357.73}
           gradientTransform="matrix(-1 0 0 1 -2389.38 0)"
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_31"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_31"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_31-32"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_31-32"
           x1={-2804.54}
           y1={483.6}
           x2={-2804.54}
           y2={357.73}
           gradientTransform="matrix(-1 0 0 1 -2389.38 0)"
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_31"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_31"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_29-15"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_29-15"
           x1={438.22}
           y1={258.36}
           x2={390.16}
           y2={349.94}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_29"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_29"
         />
         <linearGradient
-          id="sidepanel1__linear-gradient-3"
+          id="homepagesidepanel11__linear-gradient-3"
           x1={414.25}
           y1={444.09}
           x2={364.24}
@@ -452,216 +453,216 @@ function SvgComponent(props) {
           <stop offset={1} />
         </linearGradient>
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_29-16"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_29-16"
           x1={5644.53}
           y1={10861.23}
           x2={5610.5}
           y2={10926.07}
           gradientTransform="rotate(180 3003.225 5632.45)"
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_29"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_29"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_29-17"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_29-17"
           x1={353.14}
           y1={344.91}
           x2={411.19}
           y2={325.99}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_29"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_29"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_29-18"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_29-18"
           x1={403.61}
           y1={337.2}
           x2={423.39}
           y2={328.55}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_29"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_29"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_29-19"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_29-19"
           x1={526.73}
           y1={434.32}
           x2={692.12}
           y2={384.8}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_29"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_29"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_29-20"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_29-20"
           x1={390.54}
           y1={454.31}
           x2={607.03}
           y2={405.78}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_29"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_29"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_31-33"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_31-33"
           x1={496.27}
           y1={495.06}
           x2={496.27}
           y2={369.16}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_31"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_31"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_31-37"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_31-37"
           x1={496.27}
           y1={495.06}
           x2={496.27}
           y2={369.16}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_31"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_31"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_31-40"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_31-40"
           x1={496.27}
           y1={495.06}
           x2={496.27}
           y2={369.16}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_31"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_31"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_31-44"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_31-44"
           x1={496.27}
           y1={495.06}
           x2={496.27}
           y2={369.16}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_31"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_31"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_31-46"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_31-46"
           x1={513.46}
           y1={483.05}
           x2={550.22}
           y2={317.62}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_31"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_31"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_31-47"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_31-47"
           x1={515.62}
           y1={483.53}
           x2={552.38}
           y2={318.1}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_31"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_31"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_31-48"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_31-48"
           x1={517.77}
           y1={484.01}
           x2={554.53}
           y2={318.58}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_31"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_31"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_31-49"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_31-49"
           x1={519.93}
           y1={484.48}
           x2={556.69}
           y2={319.05}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_31"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_31"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_31-50"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_31-50"
           x1={522.08}
           y1={484.96}
           x2={558.84}
           y2={319.53}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_31"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_31"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_31-51"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_31-51"
           x1={524.23}
           y1={485.44}
           x2={561}
           y2={320.01}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_31"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_31"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_31-52"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_31-52"
           x1={526.39}
           y1={485.92}
           x2={563.15}
           y2={320.49}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_31"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_31"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_31-53"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_31-53"
           x1={528.54}
           y1={486.4}
           x2={565.31}
           y2={320.97}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_31"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_31"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_31-54"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_31-54"
           x1={530.7}
           y1={486.88}
           x2={567.46}
           y2={321.45}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_31"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_31"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_31-55"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_31-55"
           x1={532.85}
           y1={487.36}
           x2={569.61}
           y2={321.93}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_31"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_31"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_31-56"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_31-56"
           x1={535.01}
           y1={487.84}
           x2={571.77}
           y2={322.41}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_31"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_31"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_31-57"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_31-57"
           x1={537.16}
           y1={488.31}
           x2={573.92}
           y2={322.88}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_31"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_31"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_31-58"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_31-58"
           x1={539.31}
           y1={488.79}
           x2={576.08}
           y2={323.36}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_31"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_31"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_29-21"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_29-21"
           x1={562.69}
           y1={260.74}
           x2={514.64}
           y2={352.33}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_29"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_29"
         />
         <linearGradient
-          id="sidepanel1__linear-gradient-4"
+          id="homepagesidepanel11__linear-gradient-4"
           x1={484.26}
           y1={472.43}
           x2={508.79}
           y2={388.11}
-          xlinkHref="#sidepanel1__linear-gradient-3"
+          xlinkHref="#homepagesidepanel11__linear-gradient-3"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_29-22"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_29-22"
           x1={506.57}
           y1={506.26}
           x2={619.27}
           y2={472.52}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_29"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_29"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_29-23"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_29-23"
           x1={409.29}
           y1={514.42}
           x2={545.91}
           y2={483.79}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_29"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_29"
         />
         <linearGradient
-          id="sidepanel1__linear-gradient-5"
+          id="homepagesidepanel11__linear-gradient-5"
           x1={490.84}
           y1={501.39}
           x2={544.9}
@@ -675,7 +676,7 @@ function SvgComponent(props) {
           <stop offset={1} stopColor="#ff4747" />
         </linearGradient>
         <linearGradient
-          id="sidepanel1__linear-gradient-6"
+          id="homepagesidepanel11__linear-gradient-6"
           x1={423.51}
           y1={501.65}
           x2={541.36}
@@ -689,135 +690,135 @@ function SvgComponent(props) {
           <stop offset={1} stopColor="#fe5656" />
         </linearGradient>
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_29-24"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_29-24"
           x1={508.49}
           y1={436.08}
           x2={484.58}
           y2={481.63}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_29"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_29"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_31-59"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_31-59"
           x1={475.94}
           y1={516.77}
           x2={475.94}
           y2={425.78}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_31"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_31"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_31-60"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_31-60"
           x1={507.81}
           y1={522.15}
           x2={507.81}
           y2={462.01}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_31"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_31"
         />
         <linearGradient
-          id="sidepanel1__linear-gradient-7"
+          id="homepagesidepanel11__linear-gradient-7"
           x1={482.99}
           y1={524.57}
           x2={473.56}
           y2={490.08}
-          xlinkHref="#sidepanel1__linear-gradient-3"
+          xlinkHref="#homepagesidepanel11__linear-gradient-3"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_29-25"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_29-25"
           x1={529.15}
           y1={354.01}
           x2={601.74}
           y2={332.27}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_29"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_29"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_29-26"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_29-26"
           x1={455.22}
           y1={362.69}
           x2={549.31}
           y2={341.6}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_29"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_29"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_30-3"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_30-3"
           x1={529.32}
           y1={351.77}
           x2={599.6}
           y2={330.72}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_30"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_30"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_30-4"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_30-4"
           x1={456.72}
           y1={360.16}
           x2={547.74}
           y2={339.76}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_30"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_30"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_29-27"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_29-27"
           x1={552.9}
           y1={273.39}
           x2={515.43}
           y2={344.81}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_29"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_29"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_29-28"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_29-28"
           x1={523.48}
           y1={341.9}
           x2={564.21}
           y2={329.71}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_29"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_29"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_29-29"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_29-29"
           x1={483.86}
           y1={346.78}
           x2={536.76}
           y2={334.92}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_29"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_29"
         />
         <linearGradient
-          id="sidepanel1__linear-gradient-8"
+          id="homepagesidepanel11__linear-gradient-8"
           x1={523.75}
           y1={339.8}
           x2={560.93}
           y2={328.67}
-          xlinkHref="#sidepanel1__linear-gradient-5"
+          xlinkHref="#homepagesidepanel11__linear-gradient-5"
         />
         <linearGradient
-          id="sidepanel1__linear-gradient-9"
+          id="homepagesidepanel11__linear-gradient-9"
           x1={486.16}
           y1={344.25}
           x2={534.35}
           y2={333.44}
-          xlinkHref="#sidepanel1__linear-gradient-6"
+          xlinkHref="#homepagesidepanel11__linear-gradient-6"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_29-30"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_29-30"
           x1={535.77}
           y1={297.26}
           x2={516.88}
           y2={333.26}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_29"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_29"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_29-31"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_29-31"
           x1={517.02}
           y1={320.86}
           x2={535.71}
           y2={315.26}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_29"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_29"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_29-32"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_29-32"
           x1={492.09}
           y1={326.41}
           x2={536.65}
           y2={316.42}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_29"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_29"
         />
         <linearGradient
-          id="sidepanel1__linear-gradient-10"
+          id="homepagesidepanel11__linear-gradient-10"
           x1={508.61}
           y1={466.64}
           x2={473.96}
@@ -829,15 +830,15 @@ function SvgComponent(props) {
           <stop offset={1} stopColor="#f2f2f2" />
         </linearGradient>
         <linearGradient
-          id="sidepanel1__linear-gradient-11"
+          id="homepagesidepanel11__linear-gradient-11"
           x1={461.86}
           y1={433.45}
           x2={509.96}
           y2={433.45}
-          xlinkHref="#sidepanel1__linear-gradient-10"
+          xlinkHref="#homepagesidepanel11__linear-gradient-10"
         />
         <linearGradient
-          id="sidepanel1__linear-gradient-12"
+          id="homepagesidepanel11__linear-gradient-12"
           x1={183.84}
           y1={1853.75}
           x2={168.32}
@@ -850,7 +851,7 @@ function SvgComponent(props) {
           <stop offset={1} stopColor="#eeebf2" />
         </linearGradient>
         <linearGradient
-          id="sidepanel1__linear-gradient-13"
+          id="homepagesidepanel11__linear-gradient-13"
           x1={461.85}
           y1={586.66}
           x2={403.75}
@@ -875,7 +876,7 @@ function SvgComponent(props) {
           <stop offset={1} stopColor="#fff" />
         </linearGradient>
         <linearGradient
-          id="sidepanel1__linear-gradient-14"
+          id="homepagesidepanel11__linear-gradient-14"
           x1={693.64}
           y1={523.09}
           x2={531.08}
@@ -888,7 +889,7 @@ function SvgComponent(props) {
           <stop offset={1} stopColor="red" />
         </linearGradient>
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_8"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_8"
           data-name="New Gradient Swatch copy 8"
           x1={794.58}
           y1={549.07}
@@ -902,23 +903,23 @@ function SvgComponent(props) {
           <stop offset={1} stopColor="#feeca8" />
         </linearGradient>
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_8-2"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_8-2"
           x1={197.35}
           y1={597.22}
           x2={288.31}
           y2={569.99}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_8"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_8"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_8-3"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_8-3"
           x1={114.31}
           y1={608.27}
           x2={229.01}
           y2={582.56}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_8"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_8"
         />
         <linearGradient
-          id="sidepanel1__linear-gradient-15"
+          id="homepagesidepanel11__linear-gradient-15"
           x1={132.39}
           y1={608.69}
           x2={200.8}
@@ -929,15 +930,15 @@ function SvgComponent(props) {
           <stop offset={1} stopColor="#eeebf2" />
         </linearGradient>
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_8-4"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_8-4"
           x1={224.02}
           y1={498.44}
           x2={185.02}
           y2={572.76}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_8"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_8"
         />
         <linearGradient
-          id="sidepanel1__linear-gradient-16"
+          id="homepagesidepanel11__linear-gradient-16"
           x1={203.93}
           y1={581.77}
           x2={225.37}
@@ -950,96 +951,96 @@ function SvgComponent(props) {
           <stop offset={1} stopColor="#f7aa90" />
         </linearGradient>
         <linearGradient
-          id="sidepanel1__linear-gradient-17"
+          id="homepagesidepanel11__linear-gradient-17"
           x1={198.69}
           y1={548.48}
           x2={188.33}
           y2={568.23}
-          xlinkHref="#sidepanel1__linear-gradient-16"
+          xlinkHref="#homepagesidepanel11__linear-gradient-16"
         />
         <linearGradient
-          id="sidepanel1__linear-gradient-18"
+          id="homepagesidepanel11__linear-gradient-18"
           x1={-176.41}
           y1={-175.43}
           x2={-162.88}
           y2={-168.14}
           gradientTransform="matrix(.87 -.5 0 1.15 345.65 723.59)"
-          xlinkHref="#sidepanel1__linear-gradient-16"
+          xlinkHref="#homepagesidepanel11__linear-gradient-16"
         />
         <linearGradient
-          id="sidepanel1__linear-gradient-19"
+          id="homepagesidepanel11__linear-gradient-19"
           x1={-168.68}
           y1={-175.43}
           x2={-155.15}
           y2={-168.14}
           gradientTransform="matrix(.87 -.5 0 1.15 345.65 723.59)"
-          xlinkHref="#sidepanel1__linear-gradient-16"
+          xlinkHref="#homepagesidepanel11__linear-gradient-16"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_8-5"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_8-5"
           x1={3776.7}
           y1={568.54}
           x2={3868.46}
           y2={547.97}
           gradientTransform="matrix(-1 0 0 1 3999.38 0)"
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_8"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_8"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_8-6"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_8-6"
           x1={3794.41}
           y1={560.67}
           x2={3836.03}
           y2={548.2}
           gradientTransform="matrix(-1 0 0 1 3999.38 0)"
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_8"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_8"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_8-7"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_8-7"
           x1={3833.85}
           y1={498.44}
           x2={3809.64}
           y2={544.58}
           gradientTransform="matrix(-1 0 0 1 3999.38 0)"
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_8"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_8"
         />
         <linearGradient
-          id="sidepanel1__linear-gradient-20"
+          id="homepagesidepanel11__linear-gradient-20"
           x1={3821.37}
           y1={550.18}
           x2={3834.68}
           y2={546.19}
           gradientTransform="matrix(-1 0 0 1 3999.38 0)"
-          xlinkHref="#sidepanel1__linear-gradient-16"
+          xlinkHref="#homepagesidepanel11__linear-gradient-16"
         />
         <linearGradient
-          id="sidepanel1__linear-gradient-21"
+          id="homepagesidepanel11__linear-gradient-21"
           x1={3818.12}
           y1={529.51}
           x2={3811.69}
           y2={541.77}
           gradientTransform="matrix(-1 0 0 1 3999.38 0)"
-          xlinkHref="#sidepanel1__linear-gradient-16"
+          xlinkHref="#homepagesidepanel11__linear-gradient-16"
         />
         <linearGradient
-          id="sidepanel1__linear-gradient-22"
+          id="homepagesidepanel11__linear-gradient-22"
           x1={4005.62}
           y1={1599.06}
           x2={4014.02}
           y2={1603.59}
           gradientTransform="matrix(-.87 -.5 0 1.15 3653.74 723.59)"
-          xlinkHref="#sidepanel1__linear-gradient-16"
+          xlinkHref="#homepagesidepanel11__linear-gradient-16"
         />
         <linearGradient
-          id="sidepanel1__linear-gradient-23"
+          id="homepagesidepanel11__linear-gradient-23"
           x1={4010.41}
           y1={1599.06}
           x2={4018.82}
           y2={1603.59}
           gradientTransform="matrix(-.87 -.5 0 1.15 3653.74 723.59)"
-          xlinkHref="#sidepanel1__linear-gradient-16"
+          xlinkHref="#homepagesidepanel11__linear-gradient-16"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_11"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_11"
           data-name="New Gradient Swatch copy 11"
           x1={249.99}
           y1={640.66}
@@ -1052,7 +1053,7 @@ function SvgComponent(props) {
           <stop offset={1} stopColor="#444" />
         </linearGradient>
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_38"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_38"
           data-name="New Gradient Swatch copy 38"
           x1={223.87}
           y1={631.01}
@@ -1065,7 +1066,7 @@ function SvgComponent(props) {
           <stop offset={1} stopColor="#2d2d2d" />
         </linearGradient>
         <linearGradient
-          id="sidepanel1__linear-gradient-24"
+          id="homepagesidepanel11__linear-gradient-24"
           x1={226.79}
           y1={631.2}
           x2={243.93}
@@ -1077,7 +1078,7 @@ function SvgComponent(props) {
           <stop offset={1} stopColor="#f4d9d9" />
         </linearGradient>
         <linearGradient
-          id="sidepanel1__linear-gradient-25"
+          id="homepagesidepanel11__linear-gradient-25"
           x1={226.26}
           y1={631.41}
           x2={243.4}
@@ -1089,39 +1090,39 @@ function SvgComponent(props) {
           <stop offset={1} stopColor="#f2f2f2" />
         </linearGradient>
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_11-2"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_11-2"
           x1={355.54}
           y1={701.18}
           x2={336.02}
           y2={675.02}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_11"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_11"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_38-2"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_38-2"
           x1={329.42}
           y1={691.53}
           x2={351.67}
           y2={691.53}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_38"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_38"
         />
         <linearGradient
-          id="sidepanel1__linear-gradient-26"
+          id="homepagesidepanel11__linear-gradient-26"
           x1={332.34}
           y1={691.71}
           x2={349.48}
           y2={691.71}
-          xlinkHref="#sidepanel1__linear-gradient-24"
+          xlinkHref="#homepagesidepanel11__linear-gradient-24"
         />
         <linearGradient
-          id="sidepanel1__linear-gradient-27"
+          id="homepagesidepanel11__linear-gradient-27"
           x1={331.81}
           y1={691.93}
           x2={348.95}
           y2={691.93}
-          xlinkHref="#sidepanel1__linear-gradient-25"
+          xlinkHref="#homepagesidepanel11__linear-gradient-25"
         />
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_37"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_37"
           data-name="New Gradient Swatch copy 37"
           x1={345.58}
           y1={638.07}
@@ -1134,23 +1135,23 @@ function SvgComponent(props) {
           <stop offset={1} stopColor="#eaeaea" />
         </linearGradient>
         <linearGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_37-2"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_37-2"
           x1={323.03}
           y1={641.02}
           x2={342.31}
           y2={641.02}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_37"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_37"
         />
         <linearGradient
-          id="sidepanel1__linear-gradient-28"
+          id="homepagesidepanel11__linear-gradient-28"
           x1={359.72}
           y1={690.25}
           x2={374.86}
           y2={690.25}
-          xlinkHref="#sidepanel1__linear-gradient-24"
+          xlinkHref="#homepagesidepanel11__linear-gradient-24"
         />
         <linearGradient
-          id="sidepanel1__linear-gradient-29"
+          id="homepagesidepanel11__linear-gradient-29"
           x1={367.59}
           y1={693.66}
           x2={367.24}
@@ -1166,23 +1167,23 @@ function SvgComponent(props) {
           <stop offset={1} stopColor="#fff" />
         </linearGradient>
         <linearGradient
-          id="sidepanel1__linear-gradient-30"
+          id="homepagesidepanel11__linear-gradient-30"
           x1={408.95}
           y1={667.33}
           x2={414.69}
           y2={667.33}
-          xlinkHref="#sidepanel1__linear-gradient-24"
+          xlinkHref="#homepagesidepanel11__linear-gradient-24"
         />
         <linearGradient
-          id="sidepanel1__linear-gradient-31"
+          id="homepagesidepanel11__linear-gradient-31"
           x1={408.95}
           y1={667.33}
           x2={414.38}
           y2={667.33}
-          xlinkHref="#sidepanel1__linear-gradient-29"
+          xlinkHref="#homepagesidepanel11__linear-gradient-29"
         />
         <linearGradient
-          id="sidepanel1__linear-gradient-32"
+          id="homepagesidepanel11__linear-gradient-32"
           x1={345.59}
           y1={626.93}
           x2={394.88}
@@ -1198,7 +1199,7 @@ function SvgComponent(props) {
           <stop offset={1} />
         </linearGradient>
         <linearGradient
-          id="sidepanel1__linear-gradient-33"
+          id="homepagesidepanel11__linear-gradient-33"
           x1={409.01}
           y1={630.22}
           x2={272.08}
@@ -1215,7 +1216,7 @@ function SvgComponent(props) {
           <stop offset={1} />
         </linearGradient>
         <linearGradient
-          id="sidepanel1__linear-gradient-34"
+          id="homepagesidepanel11__linear-gradient-34"
           x1={344.79}
           y1={659.27}
           x2={331.45}
@@ -1232,31 +1233,31 @@ function SvgComponent(props) {
           <stop offset={1} stopColor="#fff" />
         </linearGradient>
         <linearGradient
-          id="sidepanel1__linear-gradient-35"
+          id="homepagesidepanel11__linear-gradient-35"
           x1={281.62}
           y1={661.2}
           x2={288.14}
           y2={650.47}
-          xlinkHref="#sidepanel1__linear-gradient-29"
+          xlinkHref="#homepagesidepanel11__linear-gradient-29"
         />
         <linearGradient
-          id="sidepanel1__linear-gradient-36"
+          id="homepagesidepanel11__linear-gradient-36"
           x1={207.73}
           y1={618}
           x2={213.55}
           y2={608.42}
-          xlinkHref="#sidepanel1__linear-gradient-29"
+          xlinkHref="#homepagesidepanel11__linear-gradient-29"
         />
         <linearGradient
-          id="sidepanel1__linear-gradient-37"
+          id="homepagesidepanel11__linear-gradient-37"
           x1={363.87}
           y1={689.87}
           x2={372.41}
           y2={689.87}
-          xlinkHref="#sidepanel1__linear-gradient-24"
+          xlinkHref="#homepagesidepanel11__linear-gradient-24"
         />
         <linearGradient
-          id="sidepanel1__linear-gradient-38"
+          id="homepagesidepanel11__linear-gradient-38"
           x1={-2512.16}
           y1={690.48}
           x2={-2508.34}
@@ -1269,55 +1270,55 @@ function SvgComponent(props) {
           <stop offset={1} stopColor="#fff" />
         </linearGradient>
         <linearGradient
-          id="sidepanel1__linear-gradient-39"
+          id="homepagesidepanel11__linear-gradient-39"
           x1={360.92}
           y1={690.48}
           x2={367.71}
           y2={690.48}
-          xlinkHref="#sidepanel1__linear-gradient-24"
+          xlinkHref="#homepagesidepanel11__linear-gradient-24"
         />
         <linearGradient
-          id="sidepanel1__linear-gradient-40"
+          id="homepagesidepanel11__linear-gradient-40"
           x1={-2507.29}
           y1={690.97}
           x2={-2504.26}
           y2={690.97}
-          xlinkHref="#sidepanel1__linear-gradient-38"
+          xlinkHref="#homepagesidepanel11__linear-gradient-38"
         />
         <linearGradient
-          id="sidepanel1__linear-gradient-41"
+          id="homepagesidepanel11__linear-gradient-41"
           x1={409.56}
           y1={668.66}
           x2={413.34}
           y2={668.66}
-          xlinkHref="#sidepanel1__linear-gradient-24"
+          xlinkHref="#homepagesidepanel11__linear-gradient-24"
         />
         <linearGradient
-          id="sidepanel1__linear-gradient-42"
+          id="homepagesidepanel11__linear-gradient-42"
           x1={-2552.83}
           y1={668.73}
           x2={-2550.22}
           y2={668.73}
-          xlinkHref="#sidepanel1__linear-gradient-38"
+          xlinkHref="#homepagesidepanel11__linear-gradient-38"
         />
         <linearGradient
-          id="sidepanel1__linear-gradient-43"
+          id="homepagesidepanel11__linear-gradient-43"
           x1={411.21}
           y1={665.55}
           x2={413.97}
           y2={665.55}
-          xlinkHref="#sidepanel1__linear-gradient-24"
+          xlinkHref="#homepagesidepanel11__linear-gradient-24"
         />
         <linearGradient
-          id="sidepanel1__linear-gradient-44"
+          id="homepagesidepanel11__linear-gradient-44"
           x1={-2553.31}
           y1={665.6}
           x2={-2551.41}
           y2={665.6}
-          xlinkHref="#sidepanel1__linear-gradient-38"
+          xlinkHref="#homepagesidepanel11__linear-gradient-38"
         />
         <linearGradient
-          id="sidepanel1__linear-gradient-45"
+          id="homepagesidepanel11__linear-gradient-45"
           x1={394.58}
           y1={683.67}
           x2={390.32}
@@ -1328,23 +1329,23 @@ function SvgComponent(props) {
           <stop offset={1} stopColor="#f2f2f2" />
         </linearGradient>
         <linearGradient
-          id="sidepanel1__linear-gradient-46"
+          id="homepagesidepanel11__linear-gradient-46"
           x1={439.47}
           y1={669.3}
           x2={354.56}
           y2={658.88}
-          xlinkHref="#sidepanel1__linear-gradient-33"
+          xlinkHref="#homepagesidepanel11__linear-gradient-33"
         />
         <linearGradient
-          id="sidepanel1__linear-gradient-47"
+          id="homepagesidepanel11__linear-gradient-47"
           x1={272.29}
           y1={633.84}
           x2={278.94}
           y2={622.86}
-          xlinkHref="#sidepanel1__linear-gradient-32"
+          xlinkHref="#homepagesidepanel11__linear-gradient-32"
         />
         <linearGradient
-          id="sidepanel1__linear-gradient-48"
+          id="homepagesidepanel11__linear-gradient-48"
           x1={198.51}
           y1={607.07}
           x2={203.86}
@@ -1355,23 +1356,23 @@ function SvgComponent(props) {
           <stop offset={1} stopColor="#f2f2f2" />
         </linearGradient>
         <linearGradient
-          id="sidepanel1__linear-gradient-49"
+          id="homepagesidepanel11__linear-gradient-49"
           x1={324.98}
           y1={655.65}
           x2={330.03}
           y2={655.65}
-          xlinkHref="#sidepanel1__linear-gradient-29"
+          xlinkHref="#homepagesidepanel11__linear-gradient-29"
         />
         <linearGradient
-          id="sidepanel1__linear-gradient-50"
+          id="homepagesidepanel11__linear-gradient-50"
           x1={312.53}
           y1={648.94}
           x2={317.58}
           y2={648.94}
-          xlinkHref="#sidepanel1__linear-gradient-29"
+          xlinkHref="#homepagesidepanel11__linear-gradient-29"
         />
         <radialGradient
-          id="sidepanel1__Radial_Gradient_1"
+          id="homepagesidepanel11__Radial_Gradient_1"
           data-name="Radial Gradient 1"
           cx={497.89}
           cy={419.87}
@@ -1382,35 +1383,35 @@ function SvgComponent(props) {
           <stop offset={1} />
         </radialGradient>
         <radialGradient
-          id="sidepanel1__Radial_Gradient_1-2"
+          id="homepagesidepanel11__Radial_Gradient_1-2"
           cx={676.69}
           cy={488.88}
           r={39.99}
-          xlinkHref="#sidepanel1__Radial_Gradient_1"
+          xlinkHref="#homepagesidepanel11__Radial_Gradient_1"
         />
         <radialGradient
-          id="sidepanel1__Radial_Gradient_1-3"
+          id="homepagesidepanel11__Radial_Gradient_1-3"
           cx={584.9}
           cy={530.22}
           r={32.53}
-          xlinkHref="#sidepanel1__Radial_Gradient_1"
+          xlinkHref="#homepagesidepanel11__Radial_Gradient_1"
         />
         <radialGradient
-          id="sidepanel1__Radial_Gradient_1-4"
+          id="homepagesidepanel11__Radial_Gradient_1-4"
           cx={783.77}
           cy={511.44}
           r={5.18}
-          xlinkHref="#sidepanel1__Radial_Gradient_1"
+          xlinkHref="#homepagesidepanel11__Radial_Gradient_1"
         />
         <radialGradient
-          id="sidepanel1__Radial_Gradient_1-5"
+          id="homepagesidepanel11__Radial_Gradient_1-5"
           cx={708.21}
           cy={551.57}
           r={52.08}
-          xlinkHref="#sidepanel1__Radial_Gradient_1"
+          xlinkHref="#homepagesidepanel11__Radial_Gradient_1"
         />
         <radialGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_33"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_33"
           data-name="New Gradient Swatch copy 33"
           cx={399.03}
           cy={629.55}
@@ -1421,63 +1422,63 @@ function SvgComponent(props) {
           <stop offset={1} stopColor="#ff3030" />
         </radialGradient>
         <radialGradient
-          id="sidepanel1__Radial_Gradient_1-6"
+          id="homepagesidepanel11__Radial_Gradient_1-6"
           cx={398.83}
           cy={629.07}
           r={5.04}
-          xlinkHref="#sidepanel1__Radial_Gradient_1"
+          xlinkHref="#homepagesidepanel11__Radial_Gradient_1"
         />
         <radialGradient
-          id="sidepanel1__Radial_Gradient_1-7"
+          id="homepagesidepanel11__Radial_Gradient_1-7"
           cx={237.28}
           cy={630.64}
           r={12.02}
-          xlinkHref="#sidepanel1__Radial_Gradient_1"
+          xlinkHref="#homepagesidepanel11__Radial_Gradient_1"
         />
         <radialGradient
-          id="sidepanel1__Radial_Gradient_1-8"
+          id="homepagesidepanel11__Radial_Gradient_1-8"
           cx={342.83}
           cy={691.15}
           r={12.02}
-          xlinkHref="#sidepanel1__Radial_Gradient_1"
+          xlinkHref="#homepagesidepanel11__Radial_Gradient_1"
         />
         <radialGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_33-2"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_33-2"
           cx={313.2}
           cy={560.44}
           r={163.99}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_33"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_33"
         />
         <radialGradient
-          id="sidepanel1__Radial_Gradient_1-9"
+          id="homepagesidepanel11__Radial_Gradient_1-9"
           cx={288.16}
           cy={622.61}
           r={77.25}
-          xlinkHref="#sidepanel1__Radial_Gradient_1"
+          xlinkHref="#homepagesidepanel11__Radial_Gradient_1"
         />
         <radialGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_33-3"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_33-3"
           cx={336.81}
           cy={655.67}
           r={7.05}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_33"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_33"
         />
         <radialGradient
-          id="sidepanel1__Radial_Gradient_1-10"
+          id="homepagesidepanel11__Radial_Gradient_1-10"
           cx={335.31}
           cy={649.83}
           r={8.16}
-          xlinkHref="#sidepanel1__Radial_Gradient_1"
+          xlinkHref="#homepagesidepanel11__Radial_Gradient_1"
         />
         <radialGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_33-4"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_33-4"
           cx={383.61}
           cy={688.39}
           r={25.98}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_33"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_33"
         />
         <radialGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_39"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_39"
           data-name="New Gradient Swatch copy 39"
           cx={363.39}
           cy={-2429.68}
@@ -1489,43 +1490,43 @@ function SvgComponent(props) {
           <stop offset={1} stopColor="#ff1717" />
         </radialGradient>
         <radialGradient
-          id="sidepanel1__Radial_Gradient_1-11"
+          id="homepagesidepanel11__Radial_Gradient_1-11"
           cx={394.25}
           cy={679.15}
           r={23.86}
-          xlinkHref="#sidepanel1__Radial_Gradient_1"
+          xlinkHref="#homepagesidepanel11__Radial_Gradient_1"
         />
         <radialGradient
-          id="sidepanel1__Radial_Gradient_1-12"
+          id="homepagesidepanel11__Radial_Gradient_1-12"
           cx={270.69}
           cy={610.56}
           r={60.89}
-          xlinkHref="#sidepanel1__Radial_Gradient_1"
+          xlinkHref="#homepagesidepanel11__Radial_Gradient_1"
         />
         <radialGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_33-5"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_33-5"
           cx={325.23}
           cy={653.86}
           r={4.9}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_33"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_33"
         />
         <radialGradient
-          id="sidepanel1__New_Gradient_Swatch_copy_33-6"
+          id="homepagesidepanel11__New_Gradient_Swatch_copy_33-6"
           cx={312.78}
           cy={647.15}
           r={4.9}
-          xlinkHref="#sidepanel1__New_Gradient_Swatch_copy_33"
+          xlinkHref="#homepagesidepanel11__New_Gradient_Swatch_copy_33"
         />
         <radialGradient
-          id="sidepanel1__White_Black_Radial"
+          id="homepagesidepanel11__White_Black_Radial"
           data-name="White, Black Radial"
           cx={305.36}
           cy={622.18}
           r={19.4}
-          xlinkHref="#sidepanel1__Radial_Gradient_1"
+          xlinkHref="#homepagesidepanel11__Radial_Gradient_1"
         />
         <pattern
-          id="sidepanel1__New_Pattern_Swatch_2"
+          id="homepagesidepanel11__New_Pattern_Swatch_2"
           data-name="New Pattern Swatch 2"
           width={92.18}
           height={92.18}
@@ -1542,9 +1543,9 @@ function SvgComponent(props) {
           isolation: "isolate",
         }}
       >
-        <g id="sidepanel1__Layer_2" data-name="Layer 2">
-          <g id="sidepanel1__Layer_1-2" data-name="Layer 1">
-            <g id="sidepanel1__overall">
+        <g id="homepagesidepanel11__Layer_2" data-name="Layer 2">
+          <g id="homepagesidepanel11__Layer_1-2" data-name="Layer 1">
+            <g id="homepagesidepanel11__overall">
               <path
                 d="M920.61 644.37L704.84 766.93 474.59 897.7l-75.14 42.67-270.74 153.78a137.42 137.42 0 01-68.09 17.49V0a137.42 137.42 0 0168.09 17.49l264.61 150.29 74 42 113.83 64.65 339.5 192.82c73.74 41.91 73.74 135.23-.04 177.12z"
                 fill="#232323"
@@ -1639,11 +1640,11 @@ function SvgComponent(props) {
               />
               <path
                 d="M630.24 676.88a32.17 32.17 0 01-15.77-3.73L328 507.72c-3.77-2.17-5.84-4.93-5.84-7.76s2.11-5.66 5.94-7.87l115-66.42a32.5 32.5 0 0116-3.79 32.06 32.06 0 0115.77 3.73L761.36 591c3.76 2.17 5.83 4.92 5.83 7.75s-2.11 5.66-5.94 7.87l-115 66.42a32.46 32.46 0 01-16.01 3.84z"
-                fill="url(#sidepanel1__linear-gradient)"
+                fill="url(#homepagesidepanel11__linear-gradient)"
               />
               <path
                 d="M393 570.49l-13.19-7.62a7.12 7.12 0 01-3-5.69c0-2.2 1.33-3.2 3-2.25l13.19 7.61a7.15 7.15 0 013 5.69c0 2.2-1.34 3.21-3 2.26z"
-                fill="url(#sidepanel1__linear-gradient-2)"
+                fill="url(#homepagesidepanel11__linear-gradient-2)"
               />
               <path
                 d="M393 570.49l-13.19-7.62a7.12 7.12 0 01-3-5.69c0-2.2 1.33-3.2 3-2.25l13.19 7.61a7.15 7.15 0 013 5.69c0 2.2-1.34 3.21-3 2.26z"
@@ -1676,104 +1677,104 @@ function SvgComponent(props) {
                   d="M517.93 450.5l-145.51 82.9 7.61 4.39 145.51-82.9-7.61-4.39z"
                 />
               </g>
-              <g id="sidepanel1__buildings">
+              <g id="homepagesidepanel11__buildings">
                 <path
-                  fill="url(#sidepanel1__New_Gradient_Swatch_copy_29)"
+                  fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_29)"
                   d="M455.12 336.18v144.55l43.19-24.83V311.35l-43.19 24.83z"
                 />
                 <path
-                  fill="url(#sidepanel1__New_Gradient_Swatch_copy_29-2)"
+                  fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_29-2)"
                   d="M455.15 336.18v144.55l-42.59-24.83V311.38l42.59 24.8z"
                 />
                 <path
-                  fill="url(#sidepanel1__New_Gradient_Swatch_copy_31)"
+                  fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_31)"
                   d="M425.58 324.78l-4.65-2.71v133.55l4.65 2.71V324.78z"
                 />
                 <path
-                  fill="url(#sidepanel1__New_Gradient_Swatch_copy_31-2)"
+                  fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_31-2)"
                   d="M435.61 330.67l-4.65-2.71v133.55l4.65 2.71V330.67z"
                 />
                 <path
-                  fill="url(#sidepanel1__New_Gradient_Swatch_copy_31-3)"
+                  fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_31-3)"
                   d="M445.64 336.56l-4.65-2.71V467.4l4.65 2.71V336.56z"
                 />
                 <g>
                   <path
-                    fill="url(#sidepanel1__New_Gradient_Swatch_copy_31-4)"
+                    fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_31-4)"
                     d="M484.75 324.85l4.65-2.71v133.55l-4.65 2.71V324.85z"
                   />
                   <path
-                    fill="url(#sidepanel1__New_Gradient_Swatch_copy_31-5)"
+                    fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_31-5)"
                     d="M474.87 330.67l4.65-2.71v133.55l-4.65 2.71V330.67z"
                   />
                   <path
-                    fill="url(#sidepanel1__New_Gradient_Swatch_copy_31-6)"
+                    fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_31-6)"
                     d="M464.99 336.48l4.64-2.7v133.54l-4.64 2.72V336.48z"
                   />
                 </g>
                 <path
-                  fill="url(#sidepanel1__New_Gradient_Swatch_copy_29-3)"
+                  fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_29-3)"
                   d="M412.56 311.38l42.59 24.8 43.16-24.83-42.63-24.83-43.12 24.86z"
                 />
                 <g>
                   <path
-                    fill="url(#sidepanel1__New_Gradient_Swatch_copy_29-4)"
+                    fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_29-4)"
                     d="M455.24 308.65v19.49l26.91-15.48v-19.49l-26.91 15.48z"
                   />
                   <path
-                    fill="url(#sidepanel1__New_Gradient_Swatch_copy_29-5)"
+                    fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_29-5)"
                     d="M455.25 308.65v19.49l-26.53-15.47v-19.48l26.53 15.46z"
                   />
                   <path
-                    fill="url(#sidepanel1__New_Gradient_Swatch_copy_32)"
+                    fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_32)"
                     d="M436.21 301.19l-3.65-2.16v12.64l3.65 2.16v-12.64z"
                   />
                   <path
-                    fill="url(#sidepanel1__New_Gradient_Swatch_copy_32-2)"
+                    fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_32-2)"
                     d="M443.47 305.44l-3.61-2.12v12.64l3.61 2.12v-12.64z"
                   />
                   <path
-                    fill="url(#sidepanel1__New_Gradient_Swatch_copy_32-3)"
+                    fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_32-3)"
                     d="M450.73 309.69l-3.58-2.08v12.64l3.58 2.07v-12.63z"
                   />
                   <g>
                     <path
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_32-4)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_32-4)"
                       d="M474.5 300.99l3.52-1.96v12.64l-3.52 1.96v-12.64z"
                     />
                     <path
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_32-5)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_32-5)"
                       d="M467.18 305.34l3.58-2.02v12.64l-3.58 2.02v-12.64z"
                     />
                     <path
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_32-6)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_32-6)"
                       d="M459.86 309.69l3.63-2.08v12.64l-3.63 2.07v-12.63z"
                     />
                   </g>
                   <path
-                    fill="url(#sidepanel1__New_Gradient_Swatch_copy_29-6)"
+                    fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_29-6)"
                     d="M428.72 293.19l26.53 15.46 26.9-15.48-26.56-15.47-26.87 15.49z"
                   />
                 </g>
                 <g>
                   <path
-                    fill="url(#sidepanel1__New_Gradient_Swatch_copy_29-7)"
+                    fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_29-7)"
                     d="M455.33 291.19v10.24l13.93-8.01v-10.24l-13.93 8.01z"
                   />
                   <path
-                    fill="url(#sidepanel1__New_Gradient_Swatch_copy_29-8)"
+                    fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_29-8)"
                     d="M455.34 291.19v10.24l-13.73-8.01v-10.23l13.73 8z"
                   />
                   <path
-                    fill="url(#sidepanel1__New_Gradient_Swatch_copy_30)"
+                    fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_30)"
                     d="M455.33 291.19v1.09l13.93-8.01v-1.09l-13.93 8.01z"
                   />
                   <path
-                    fill="url(#sidepanel1__New_Gradient_Swatch_copy_30-2)"
+                    fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_30-2)"
                     d="M455.34 291.19v1.09l-13.73-8.01v-1.08l13.73 8z"
                   />
                   <path
-                    fill="url(#sidepanel1__New_Gradient_Swatch_copy_29-9)"
+                    fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_29-9)"
                     d="M441.61 283.19l13.73 8 13.92-8.01-13.75-8.01-13.9 8.02z"
                   />
                 </g>
@@ -1785,330 +1786,338 @@ function SvgComponent(props) {
                 />
                 <g>
                   <path
-                    fill="url(#sidepanel1__New_Gradient_Swatch_copy_29-10)"
+                    fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_29-10)"
                     d="M393.19 507.6v8.64l49.9-28.7v-8.64l-49.9 28.7z"
                   />
                   <path
-                    fill="url(#sidepanel1__New_Gradient_Swatch_copy_29-11)"
+                    fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_29-11)"
                     d="M393.21 507.6v8.64L344 487.55v-8.61l49.21 28.66z"
                   />
                   <path
-                    fill="url(#sidepanel1__New_Gradient_Swatch_copy_29-12)"
+                    fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_29-12)"
                     d="M344 478.94l49.21 28.66 49.88-28.7-49.26-28.69L344 478.94z"
                   />
                   <g>
                     <path
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_29-13)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_29-13)"
                       d="M393.23 368.31v135.35l43.19-24.83V343.48l-43.19 24.83z"
                     />
                     <path
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_29-14)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_29-14)"
                       d="M393.26 368.31v135.35l-42.59-24.82V343.51l42.59 24.8z"
                     />
                     <path
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_31-7)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_31-7)"
                       d="M389.56 370.76l-35.11-20.45v4.91l35.11 20.45v-4.91zM389.56 380.72l-35.11-20.45v4.91l35.11 20.44v-4.9z"
                     />
                     <path
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_31-9)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_31-9)"
                       d="M389.56 390.67l-35.11-20.44v4.9l35.11 20.45v-4.91z"
                     />
                     <path
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_31-10)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_31-10)"
                       d="M389.56 400.63l-35.11-20.45v4.91l35.11 20.45v-4.91z"
                     />
                     <path
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_31-11)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_31-11)"
                       d="M389.56 410.59l-35.11-20.45v4.91l35.11 20.45v-4.91zM389.56 420.55l-35.11-20.45v4.91l35.11 20.45v-4.91z"
                     />
                     <path
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_31-13)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_31-13)"
                       d="M389.56 430.51l-35.11-20.45v4.91l35.11 20.44v-4.9zM389.56 440.46l-35.11-20.44v4.9l35.11 20.45v-4.91z"
                     />
                     <path
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_31-15)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_31-15)"
                       d="M389.56 450.42l-35.11-20.45v4.91l35.11 20.45v-4.91zM389.56 460.38l-35.11-20.45v4.91l35.11 20.45v-4.91z"
                     />
                     <path
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_31-17)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_31-17)"
                       d="M389.56 470.34l-35.11-20.45v4.91l35.11 20.45v-4.91z"
                     />
                     <path
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_31-18)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_31-18)"
                       d="M389.56 480.3l-35.11-20.45v4.91l35.11 20.44v-4.9zM389.56 490.25l-35.11-20.44v4.9l35.11 20.45v-4.91z"
                     />
                     <g>
                       <path
-                        fill="url(#sidepanel1__New_Gradient_Swatch_copy_31-20)"
+                        fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_31-20)"
                         d="M397.6 370.76l35.11-20.45v4.91l-35.11 20.45v-4.91z"
                       />
                       <path
-                        fill="url(#sidepanel1__New_Gradient_Swatch_copy_31-21)"
+                        fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_31-21)"
                         d="M397.6 380.72l35.11-20.45v4.91l-35.11 20.44v-4.9z"
                       />
                       <path
-                        fill="url(#sidepanel1__New_Gradient_Swatch_copy_31-22)"
+                        fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_31-22)"
                         d="M397.6 390.67l35.11-20.44v4.9l-35.11 20.45v-4.91z"
                       />
                       <path
-                        fill="url(#sidepanel1__New_Gradient_Swatch_copy_31-23)"
+                        fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_31-23)"
                         d="M397.6 400.63l35.11-20.45v4.91l-35.11 20.45v-4.91zM397.6 410.59l35.11-20.45v4.91L397.6 415.5v-4.91z"
                       />
                       <path
-                        fill="url(#sidepanel1__New_Gradient_Swatch_copy_31-25)"
+                        fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_31-25)"
                         d="M397.6 420.55l35.11-20.45v4.91l-35.11 20.45v-4.91z"
                       />
                       <path
-                        fill="url(#sidepanel1__New_Gradient_Swatch_copy_31-26)"
+                        fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_31-26)"
                         d="M397.6 430.51l35.11-20.45v4.91l-35.11 20.44v-4.9zM397.6 440.46l35.11-20.44v4.9l-35.11 20.45v-4.91zM397.6 450.42l35.11-20.45v4.91l-35.11 20.45v-4.91z"
                       />
                       <path
-                        fill="url(#sidepanel1__New_Gradient_Swatch_copy_31-29)"
+                        fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_31-29)"
                         d="M397.6 460.38l35.11-20.45v4.91l-35.11 20.45v-4.91z"
                       />
                       <path
-                        fill="url(#sidepanel1__New_Gradient_Swatch_copy_31-30)"
+                        fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_31-30)"
                         d="M397.6 470.34l35.11-20.45v4.91l-35.11 20.45v-4.91zM397.6 480.3l35.11-20.45v4.91L397.6 485.2v-4.9z"
                       />
                       <path
-                        fill="url(#sidepanel1__New_Gradient_Swatch_copy_31-32)"
+                        fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_31-32)"
                         d="M397.6 490.25l35.11-20.44v4.9l-35.11 20.45v-4.91z"
                       />
                     </g>
                     <path
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_29-15)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_29-15)"
                       d="M350.67 343.51l42.59 24.8 43.16-24.83-42.63-24.83-43.12 24.86z"
                     />
                     <path
                       style={{
                         mixBlendMode: "color-dodge",
                       }}
-                      fill="url(#sidepanel1__linear-gradient-3)"
+                      fill="url(#homepagesidepanel11__linear-gradient-3)"
                       d="M393.26 368.31v135.35l-42.59-24.82V343.51l42.59 24.8z"
                     />
                   </g>
                   <g>
                     <path
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_29-16)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_29-16)"
                       d="M423.9 343.38l-30.15-17.55-30.56 17.58 30.18 17.57 30.53-17.6z"
                     />
                     <path
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_29-17)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_29-17)"
                       d="M393.77 331.01v-5.18h-.02l-30.56 17.58 4.49 2.61 26.09-15.01z"
                     />
                     <path
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_29-18)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_29-18)"
                       d="M393.75 331.01l25.67 14.95 4.48-2.58-30.15-17.55v5.18z"
                     />
                   </g>
                 </g>
                 <g>
                   <path
-                    fill="url(#sidepanel1__New_Gradient_Swatch_copy_29-19)"
+                    fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_29-19)"
                     d="M517.71 370.7v144.55l43.18-24.84V345.86l-43.18 24.84z"
                   />
                   <path
-                    fill="url(#sidepanel1__New_Gradient_Swatch_copy_29-20)"
+                    fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_29-20)"
                     d="M517.73 370.7v144.55l-42.59-24.83V345.9l42.59 24.8z"
                   />
                   <path
                     d="M509.34 370.66v4.79l4.15 2.55v-4.79zm-7.57.43l4.15 2.55v-4.8l-4.15-2.55zM479 358l4.16 2.55v-4.8L479 353.2zm7.58 4.37l4.15 2.55v-4.8l-4.15-2.55zm7.57 4.36l4.16 2.55v-4.79l-4.16-2.55zM509.34 380.83v4.8l4.15 2.55v-4.8zm-7.57.43l4.15 2.55V379l-4.15-2.54zM479 368.16l4.16 2.55v-4.79l-4.16-2.55zm7.58 4.37l4.15 2.55v-4.8l-4.15-2.54zm7.57 4.36l4.16 2.56v-4.8l-4.16-2.55zM509.34 391v4.8l4.15 2.55v-4.8zm-7.57.43l4.15 2.55v-4.79l-4.15-2.55zM479 378.34l4.16 2.55v-4.8l-4.16-2.55zm7.58 4.36l4.15 2.55v-4.79l-4.15-2.55zm7.57 4.37l4.16 2.55v-4.8l-4.16-2.55zM509.34 401.18V406l4.15 2.55v-4.79zm-7.57.43l4.15 2.55v-4.8l-4.15-2.55zM479 388.51l4.16 2.55v-4.8l-4.16-2.54zm7.58 4.36l4.15 2.56v-4.8l-4.15-2.55zm7.57 4.37l4.16 2.55V395l-4.16-2.54z"
-                    fill="url(#sidepanel1__New_Gradient_Swatch_copy_31-33)"
+                    fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_31-33)"
                   />
                   <path
                     d="M509.34 411.35v4.79l4.15 2.56v-4.8zm-7.57.43l4.15 2.55v-4.8l-4.15-2.53zM479 398.68l4.16 2.55v-4.79l-4.16-2.55zm7.58 4.37l4.15 2.55v-4.8l-4.15-2.55zm7.57 4.36l4.16 2.55v-4.79l-4.16-2.55zM509.34 421.52v4.8l4.15 2.55v-4.8zm-7.57.43l4.15 2.55v-4.79l-4.15-2.55zM479 408.86l4.16 2.55v-4.8l-4.16-2.55zm7.58 4.36l4.15 2.55V411l-4.15-2.54zm7.57 4.37l4.16 2.55v-4.8l-4.16-2.55zM509.34 431.7v4.79l4.15 2.55v-4.8zm-7.57.43l4.15 2.55v-4.8l-4.15-2.55zM479 419l4.16 2.55v-4.8l-4.16-2.51zm7.58 4.36l4.15 2.56v-4.8l-4.15-2.55zm7.57 4.37l4.16 2.55v-4.8l-4.12-2.48z"
-                    fill="url(#sidepanel1__New_Gradient_Swatch_copy_31-37)"
+                    fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_31-37)"
                   />
                   <path
                     d="M509.34 441.87v4.79l4.15 2.56v-4.8zm-7.57.43l4.15 2.55v-4.8l-4.15-2.55zM479 429.2l4.16 2.55V427l-4.16-2.59zm7.58 4.37l4.15 2.55v-4.8l-4.15-2.55zm7.57 4.36l4.16 2.55v-4.79l-4.16-2.55zM509.34 452v4.8l4.15 2.55v-4.8zm-7.57.43l4.15 2.55v-4.79l-4.15-2.55zM479 439.37l4.16 2.56v-4.8l-4.16-2.55zm7.58 4.37l4.15 2.55v-4.8l-4.11-2.49zm7.57 4.37l4.16 2.55v-4.8l-4.16-2.55zM509.34 462.22V467l4.15 2.55v-4.8zm-7.57.42l4.15 2.56v-4.8l-4.15-2.55zM479 449.55l4.16 2.55v-4.8l-4.16-2.55zm7.58 4.36l4.15 2.55v-4.79l-4.15-2.55zm7.57 4.37l4.16 2.55V456l-4.16-2.54zM509.34 472.39v4.79l4.15 2.55v-4.79zm-7.57.43l4.15 2.55v-4.8l-4.15-2.57zM479 459.72l4.16 2.55v-4.8l-4.16-2.54zm7.58 4.37l4.15 2.55v-4.8l-4.15-2.55zm7.57 4.36l4.16 2.55v-4.79l-4.16-2.55z"
-                    fill="url(#sidepanel1__New_Gradient_Swatch_copy_31-40)"
+                    fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_31-40)"
                   />
                   <path
                     d="M509.34 482.56v4.8l4.15 2.55v-4.8zm-7.57.43l4.15 2.55v-4.8l-4.15-2.54zM479 469.89l4.16 2.56v-4.8L479 465.1zm7.58 4.37l4.15 2.55V472l-4.15-2.54zm7.57 4.37l4.16 2.55v-4.8l-4.16-2.55zM509.34 492.74v4.79l4.15 2.55v-4.8zm-7.57.42l4.15 2.55v-4.79l-4.15-2.55zM479 480.07l4.16 2.55v-4.8l-4.16-2.55zm7.58 4.36l4.15 2.55v-4.79l-4.15-2.55zm7.57 4.37l4.16 2.55v-4.8l-4.12-2.55z"
-                    fill="url(#sidepanel1__New_Gradient_Swatch_copy_31-44)"
+                    fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_31-44)"
                   />
                   <g>
                     <path
                       d="M556.79 353.2l-4.15 2.54v4.8l4.15-2.55zm-7.58 4.36l-4.15 2.55v4.8l4.15-2.55zm-7.57 4.37l-4.15 2.55v4.79l4.15-2.55zm-19.3 11.28V378l4.15-2.55v-4.79zm11.72-6.92l-4.15 2.55v4.8l4.15-2.55z"
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_31-46)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_31-46)"
                     />
                     <path
                       d="M556.79 363.37l-4.15 2.55v4.79l4.15-2.55zm-7.58 4.37l-4.15 2.54v4.8l4.15-2.55zm-7.57 4.36l-4.15 2.55v4.8l4.15-2.56zm-19.3 11.28v4.8l4.15-2.55v-4.8zm11.72-6.91l-4.15 2.53v4.8l4.15-2.55z"
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_31-47)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_31-47)"
                     />
                     <path
                       d="M556.79 373.54l-4.15 2.55v4.8l4.15-2.55zm-7.58 4.37l-4.15 2.55v4.79l4.15-2.55zm-7.57 4.36l-4.15 2.55v4.8l4.15-2.55zm-19.3 11.28v4.8l4.15-2.55V391zm11.72-6.91l-4.15 2.55V394l4.15-2.55z"
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_31-48)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_31-48)"
                     />
                     <path
                       d="M556.79 383.72l-4.15 2.54v4.8l4.15-2.55zm-7.58 4.36l-4.15 2.55v4.8l4.15-2.56zm-7.57 4.37l-4.15 2.55v4.8l4.15-2.55zm-19.3 11.28v4.79l4.15-2.55v-4.79zm11.72-6.92l-4.15 2.55v4.8l4.15-2.55z"
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_31-49)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_31-49)"
                     />
                     <path
                       d="M556.79 393.89l-4.15 2.55v4.79l4.15-2.55zm-7.58 4.36l-4.15 2.55v4.8l4.15-2.55zm-7.57 4.37l-4.15 2.55V410l4.15-2.55zm-19.3 11.28v4.8l4.15-2.56v-4.79zm11.72-6.9l-4.15 2.54v4.8l4.15-2.55z"
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_31-50)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_31-50)"
                     />
                     <path
                       d="M556.79 404.06l-4.15 2.55v4.8l4.15-2.55zm-7.58 4.37l-4.15 2.57v4.8l4.15-2.55zm-7.57 4.36l-4.15 2.55v4.8l4.15-2.55zm-19.3 11.28v4.8l4.15-2.55v-4.8zm11.72-6.91l-4.15 2.55v4.79l4.15-2.55z"
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_31-51)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_31-51)"
                     />
                     <path
                       d="M556.79 414.24l-4.15 2.54v4.8l4.15-2.55zm-7.58 4.36l-4.15 2.55V426l4.15-2.56zm-7.57 4.4l-4.15 2.54v4.8l4.15-2.55zm-19.3 11.27V439l4.15-2.55v-4.75zm11.72-6.91l-4.15 2.55v4.8l4.15-2.55z"
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_31-52)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_31-52)"
                     />
                     <path
                       d="M556.79 424.41l-4.15 2.59v4.79l4.15-2.55zm-7.58 4.36l-4.15 2.55v4.8l4.15-2.55zm-7.57 4.37l-4.15 2.55v4.79l4.15-2.55zm-19.3 11.28v4.8l4.15-2.56v-4.79zm11.72-6.92l-4.15 2.55v4.8l4.15-2.55z"
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_31-53)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_31-53)"
                     />
                     <path
                       d="M556.79 434.58l-4.15 2.55v4.8l4.15-2.56zm-7.58 4.42l-4.15 2.54v4.8l4.15-2.55zm-7.57 4.36l-4.15 2.55v4.8l4.15-2.55zm-19.3 11.28v4.8l4.15-2.55V452zm11.72-6.91l-4.15 2.55V455l4.15-2.55z"
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_31-54)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_31-54)"
                     />
                     <path
                       d="M556.79 444.75l-4.15 2.55v4.8l4.15-2.55zm-7.58 4.37l-4.15 2.55v4.79l4.15-2.55zm-7.57 4.37l-4.15 2.51v4.8l4.15-2.55zm-19.3 11.27v4.8l4.15-2.55v-4.79zm11.72-6.91l-4.15 2.55v4.8l4.15-2.56z"
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_31-55)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_31-55)"
                     />
                     <path
                       d="M556.79 454.93l-4.15 2.54v4.8l4.15-2.55zm-7.58 4.36l-4.15 2.55v4.8l4.15-2.55zm-7.57 4.37l-4.15 2.55V471l4.15-2.55zm-19.3 11.28v4.79l4.15-2.55v-4.79zm11.72-6.94l-4.15 2.55v4.8l4.15-2.55z"
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_31-56)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_31-56)"
                     />
                     <path
                       d="M556.79 465.1l-4.15 2.55v4.8l4.15-2.56zm-7.58 4.37l-4.15 2.53v4.8l4.15-2.55zm-7.57 4.36l-4.15 2.55v4.8l4.15-2.55zm-19.3 11.28v4.8l4.15-2.55v-4.8zm11.72-6.91l-4.15 2.54v4.8l4.15-2.55z"
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_31-57)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_31-57)"
                     />
                     <path
                       d="M556.79 475.27l-4.15 2.55v4.8l4.15-2.55zm-7.58 4.37l-4.15 2.55V487l4.15-2.55zm-7.57 4.36l-4.15 2.55v4.8l4.15-2.55zm-19.3 11.28v4.8l4.15-2.55v-4.79zm11.72-6.91l-4.15 2.55v4.79l4.15-2.55z"
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_31-58)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_31-58)"
                     />
                   </g>
                   <path
-                    fill="url(#sidepanel1__New_Gradient_Swatch_copy_29-21)"
+                    fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_29-21)"
                     d="M475.14 345.9l42.59 24.8 43.16-24.84-42.63-24.82-43.12 24.86z"
                   />
                   <path
                     style={{
                       mixBlendMode: "color-dodge",
                     }}
-                    fill="url(#sidepanel1__linear-gradient-4)"
+                    fill="url(#homepagesidepanel11__linear-gradient-4)"
                     d="M517.73 370.7v144.55l-42.59-24.83V345.9l42.59 24.8z"
                   />
                   <g>
                     <path
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_29-22)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_29-22)"
                       d="M497.39 496.69v30.29l20.32-11.73v-30.29l-20.32 11.73z"
                     />
                     <path
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_29-23)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_29-23)"
                       d="M497.41 496.69v30.29l-42.59-24.83v-30.26l42.59 24.8z"
                     />
                     <path
-                      fill="url(#sidepanel1__linear-gradient-5)"
+                      fill="url(#homepagesidepanel11__linear-gradient-5)"
                       d="M497.39 500.54v3.44l20.32-11.73v-3.45l-20.32 11.74z"
                     />
                     <path
-                      fill="url(#sidepanel1__linear-gradient-6)"
+                      fill="url(#homepagesidepanel11__linear-gradient-6)"
                       d="M497.41 500.54v3.44l-42.59-24.82v-3.42l42.59 24.8z"
                     />
                     <path
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_29-24)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_29-24)"
                       d="M454.82 471.89l42.59 24.8 20.3-11.73-42.64-24.83-20.25 11.76z"
                     />
                     <path
                       d="M489 504.47v17.29l4.15 2.55V507zM458.72 487v17.28l4.16 2.55v-17.28zm7.58 4.36v17.29l4.15 2.55v-17.28zm7.57 4.37V513l4.16 2.56v-17.27zm7.58 4.36v17.29l4.15 2.55v-17.28z"
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_31-59)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_31-59)"
                     />
                     <path
                       d="M502.8 506.54l-.8.46v17.29h.07l4.08-2.5v-17.32zm6.65-3.89v17.29l4.15-2.55v-17.28z"
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_31-60)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_31-60)"
                     />
                     <path
                       style={{
                         mixBlendMode: "color-dodge",
                       }}
-                      fill="url(#sidepanel1__linear-gradient-7)"
+                      fill="url(#homepagesidepanel11__linear-gradient-7)"
                       d="M497.41 496.69v30.29l-42.59-24.83v-30.26l42.59 24.8z"
                     />
                   </g>
                   <g>
                     <path
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_29-25)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_29-25)"
                       d="M517.83 359.13v5.82l33.67-19.36v-5.83l-33.67 19.37z"
                     />
                     <path
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_29-26)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_29-26)"
                       d="M517.84 359.13v5.82l-33.2-19.35v-5.81l33.2 19.34z"
                     />
                     <path
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_30-3)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_30-3)"
                       d="M517.83 359.13v1.44l33.67-19.36v-1.45l-33.67 19.37z"
                     />
                     <path
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_30-4)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_30-4)"
                       d="M517.84 359.13v1.44l-33.2-19.36v-1.42l33.2 19.34z"
                     />
                     <path
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_29-27)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_29-27)"
                       d="M484.64 339.79l33.2 19.34 33.66-19.37-33.24-19.35-33.62 19.38z"
                     />
                   </g>
                   <g>
                     <path
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_29-28)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_29-28)"
                       d="M518.09 340.48v10.76l16.98-9.77v-10.76l-16.98 9.77z"
                     />
                     <path
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_29-29)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_29-29)"
                       d="M518.1 340.48v10.76l-16.74-9.76v-10.75l16.74 9.75z"
                     />
                     <path
-                      fill="url(#sidepanel1__linear-gradient-8)"
+                      fill="url(#homepagesidepanel11__linear-gradient-8)"
                       d="M518.09 341.82v4.03l16.98-9.76v-4.03l-16.98 9.76z"
                     />
                     <path
-                      fill="url(#sidepanel1__linear-gradient-9)"
+                      fill="url(#homepagesidepanel11__linear-gradient-9)"
                       d="M518.1 341.82v4.03l-16.74-9.76v-4.02l16.74 9.75z"
                     />
                     <path
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_29-30)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_29-30)"
                       d="M501.36 330.73l16.74 9.75 16.97-9.77-16.76-9.75-16.95 9.77z"
                     />
                   </g>
                   <g>
                     <circle cx={517.5} cy={300.27} r={2.35} fill="#f2f2f2" />
-                    <g id="sidepanel1__wifi" fill="#f2f2f2">
+                    <motion.g id="homepagesidepanel11__wifi" fill="#f2f2f2"
+                      animate={{scale:[0,1,0]}}
+                      style={{originX:0.5,originY:1}}
+                      transition={{duration:2,loop:Infinity}}
+                    >
                       <path d="M536.94 282.26a28.19 28.19 0 00-39.2.3l-.25.25 1.76 1.76.25-.24a25.73 25.73 0 0135.7-.3l.24.23 1.76-1.76zM517.5 288a14.68 14.68 0 00-10.24 4.13l-.25.25 1.77 1.76.24-.23a12.23 12.23 0 0116.65-.29l.25.22 1.76-1.77-.26-.25a14.64 14.64 0 00-9.92-3.82z" />
                       <path d="M517.5 281.22a21.3 21.3 0 00-15 6.1l-.25.25 1.77 1.76.24-.24a19 19 0 0126.17-.29l.25.22 1.76-1.76-.26-.24a21.46 21.46 0 00-14.68-5.8z" />
-                    </g>
+                    </motion.g>
                     <path
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_29-31)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_29-31)"
                       d="M517.58 306.13v29.13l9.05-5.21-9.05-23.92z"
                     />
                     <path
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_29-32)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_29-32)"
                       d="M517.58 306.13v29.13l-8.92-5.21 8.92-23.92z"
                     />
                   </g>
                 </g>
               </g>
-              <g id="sidepanel1__location">
+              <motion.g id="homepagesidepanel11__location"
+                animate={{y:[0,-50,0,-25,0,-10,0]}}
+                transition={{duration:2,loop:Infinity,repeatDelay:2}}
+              
+              >
                 <path
                   d="M492.56 390.24c-7.1-4.1-13.46-4.22-17.86-1.15l-5.1 2.38.63 3.27a23 23 0 00-1.72 9.21c0 10.44 5.58 26.91 11.37 41.19l6 31.49 6.65-3.32s24.05-19.91 24.05-41.59c.03-15.24-10.74-33.81-24.02-41.48z"
-                  fill="url(#sidepanel1__linear-gradient-10)"
+                  fill="url(#homepagesidepanel11__linear-gradient-10)"
                 />
                 <path
                   d="M510 435.05c0 21.67-24 41.58-24 41.58s-24.14-47.63-24.14-69.35c0-15.25 10.76-21.39 24.05-13.72S510 419.81 510 435.05z"
-                  fill="url(#sidepanel1__linear-gradient-11)"
+                  fill="url(#homepagesidepanel11__linear-gradient-11)"
                 />
                 <path
                   d="M487.43 392.73c-6.94-4-13.17-4.21-17.56-1.35 4.26-1.93 9.87-1.38 16 2.18 13.28 7.67 24 26.25 24 41.49 0 18.57-17.65 35.84-22.7 40.4l.17.35s24.06-19.91 24.06-41.58c.09-15.22-10.68-33.82-23.97-41.49z"
                   style={{
                     mixBlendMode: "color-dodge",
                   }}
-                  fill="url(#sidepanel1__Radial_Gradient_1)"
+                  fill="url(#homepagesidepanel11__Radial_Gradient_1)"
                 />
                 <path
                   d="M494.67 426.22c0 5.55-3.93 7.78-8.76 5s-8.76-9.55-8.76-15.1 3.92-7.79 8.76-5 8.76 9.55 8.76 15.1z"
-                  fill="url(#sidepanel1__linear-gradient-12)"
+                  fill="url(#homepagesidepanel11__linear-gradient-12)"
                 />
                 <path
                   d="M488.61 430c-4.84-2.79-8.76-9.55-8.76-15.1a6.84 6.84 0 011.67-4.92c-2.61.24-4.37 2.46-4.37 6.17 0 5.55 3.92 12.31 8.76 15.1 2.92 1.69 5.5 1.53 7.09-.07a7.57 7.57 0 01-4.39-1.18z"
@@ -2117,8 +2126,8 @@ function SvgComponent(props) {
                   }}
                   fill="#d1d3d4"
                 />
-              </g>
-              <g id="sidepanel1__road">
+              </motion.g>
+              <g id="homepagesidepanel11__road">
                 <path
                   d="M469 783.72L215.7 638l46.23-43.58 232.15 133.75a16.92 16.92 0 0016.73.09l40.22-22 9.97-45.15a10.77 10.77 0 014.65-5.19l11.58-6L602 665.28l-6 4.29a7.61 7.61 0 00-3.49 7.28l2.53 44a17.55 17.55 0 01-8.65 17.17l-80.05 45.61a37.32 37.32 0 01-37.34.09z"
                   fill="#b3b3b3"
@@ -2132,30 +2141,34 @@ function SvgComponent(props) {
                   style={{
                     mixBlendMode: "screen",
                   }}
-                  fill="url(#sidepanel1__New_Pattern_Swatch_2)"
+                  fill="url(#homepagesidepanel11__New_Pattern_Swatch_2)"
                 />
                 <path
                   d="M487.62 785.65a34.37 34.37 0 01-17.08-4.56L220.75 637.42l41.62-39.23L492.56 730.8a20 20 0 0019.73.1l41.13-22.53 10.34-46.08a7.75 7.75 0 013.33-3.73l12-7.28 20 12.35-4.73 3.37a10.71 10.71 0 00-4.89 10.18l2.54 44a14.53 14.53 0 01-7.15 14.2L504.8 781a34.29 34.29 0 01-17.18 4.65z"
                   style={{
                     mixBlendMode: "multiply",
                   }}
-                  fill="url(#sidepanel1__linear-gradient-13)"
+                  fill="url(#homepagesidepanel11__linear-gradient-13)"
                 />
                 <path
                   d="M493.61 757.52a16.06 16.06 0 01-5-.06l-.26 1.5a18.19 18.19 0 003 .25 17 17 0 002.56-.19zm9.42-4.08l-3.9 2.18-.71.38.68 1.35.77-.41 3.9-2.17zm-19.67 2.15l-4.15-2.38-.75 1.32 4.14 2.37.49.27.71-1.34zm28.93-7.32l-4.63 2.59.74 1.32 4.63-2.59zm-42.29-.34l-.75 1.32 4.6 2.64.75-1.32zm51.54-4.83l-4.63 2.58.74 1.33 4.63-2.59zm-60.74-.44l-.76 1.31 4.61 2.64.75-1.31zm70-4.73l-4.63 2.58.74 1.33 4.63-2.59zm-79.21-.55l-.76 1.31 4.6 2.64.76-1.31zm88.47-4.63l-4.63 2.59.74 1.32 4.63-2.58zm-97.68-.65l-.75 1.32 4.6 2.63.75-1.31zm106.94-4.52l-4.63 2.59.74 1.32 4.63-2.58zm-116.14-.76l-.76 1.32 4.61 2.64.75-1.32zm125.41-4.41L554 725l.74 1.32 4.63-2.59zM424 721.54l-.76 1.32 4.6 2.64.76-1.32zm143.78-4.31c-.26.18-.53.35-.8.51l-3.74 2.08.74 1.33 3.74-2.09c.32-.18.63-.38.93-.59zm-153-1l-.75 1.31 4.6 2.64.75-1.31zm-9.2-5.28l-.76 1.31 4.61 2.64.75-1.31zM572 708.74v.38a9.92 9.92 0 01-1 4.41l1.35.68a11.37 11.37 0 001.2-5.09v-.38zm-175.6-3l-.76 1.32 4.6 2.63.76-1.31zm-6.86-3.93l-2.35-1.35-.75 1.32 1.56.9 3 1.74.75-1.32zM572 698.13v5.31h1.52v-5.31zm-194-3l-.75 1.32 4.6 2.64.75-1.32zm-5.26-3l-.49-.28-1.23-.7-1.36-.79-.86-.49-.53.9-.23.4h.07l1.32.76.9.52.56.32 1 .56.73.42.53-.91.23-.4zM572 687.52v5.31h1.52v-5.31zm-208-.39l-.55-.31-1.2-.69-.37-.22-2.24-1.29-.75 1.31 1.14.65.39.23 2 1.12.17.1.93.54.21-.37.26-.45.27-.46zM353.3 681l-2.93-1.68-.75 1.32 4.6 2.63.28-.48.5-.79zm218.7-4.09v5.31h1.52v-5.31zm-228.91-1.78l-1.92-1.13-.76 1.32 1.15.66 3.45 2 .76-1.32zM332 668.77l-.75 1.31 1.92 1.1 2.68 1.54.55-1 .21-.37zm244-2a11.51 11.51 0 00-3.2 4.62l1.42.53a9.86 9.86 0 012.77-4zm-253.16-3.31l-.84 1.34 4.6 2.64.75-1.31zm262.72-1.61l-.53-.86-.46.29-4 2.52.69 1.1.11.17.09-.06 4.42-2.74zm-271.92-3.67l-.76 1.31 4.61 2.64.75-1.31zm-9.21-5.28l-.75 1.32 4.6 2.63.76-1.31zm-9.2-5.28l-.83 1.38 4.6 2.64.75-1.32zm-5.47-3.14l-3.76-2.1-.76 1.31 4.49 2.57.12.07.75-1.32zm-12.94-7.41l-.75 1.31 4.6 2.64.76-1.31zm-9.2-5.28l-.75 1.31 4.6 2.64.75-1.31zm-9.2-5.28l-.76 1.32 4.61 2.63.75-1.31zm-9.21-5.28l-.39.69-.36.63 1.11.64 3.48 2 .76-1.32zm-7-4l-2.28-1.23-.75 1.31 1.81 1 2.79 1.6.75-1.32zm-7.06-4l-4.35-2.5-.8 1.27 1.31.75 2 1.12h.06l1.28.73.08-.15.59-1 .08-.14z"
                   fill="#fff"
                 />
               </g>
-              <g id="sidepanel1__chatboxmain">
+              <motion.g id="homepagesidepanel11__chatboxmain"
+              animate={{y:[0,-20,0]}}
+              transition={{duration:3,loop:Infinity}}
+              
+              >
                 <path
-                  id="sidepanel1__chatbox1"
+                  id="homepagesidepanel11__chatbox1"
                   d="M668.72 439.94L547 510.22c-8.64 5-8.6 13.11.1 18.13l17.56 10.25c8.7 5 22.75 5 31.4 0l2.53-1.46 30.69.06-.1-17.72 88.62-51.16c8.64-5 8.6-13.11-.1-18.14L700.13 440c-8.7-5-22.76-5.06-31.41-.06z"
-                  fill="url(#sidepanel1__linear-gradient-14)"
+                  fill="url(#homepagesidepanel11__linear-gradient-14)"
                 />
                 <path
-                  id="sidepanel1__chatbox2"
+                  id="homepagesidepanel11__chatbox2"
                   d="M643.49 538.35l89.27-51c8.64-5 22.7-5 31.4 0l17.55 10.24c8.7 5 8.75 13.14.1 18.13l-2.53 1.46.1 17.72-30.69-.05-56.14 31.88c-8.65 5-22.71 5-31.41 0l-17.55-10.25c-8.7-5.02-8.74-13.14-.1-18.13z"
-                  fill="url(#sidepanel1__New_Gradient_Swatch_copy_8)"
+                  fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_8)"
                 />
                 <g
                   style={{
@@ -2164,11 +2177,11 @@ function SvgComponent(props) {
                 >
                   <path
                     d="M717.78 466.09l-88.62 51.16v2.27l88.61-51.15c4.79-2.77 6.9-6.49 6.36-10.12-.44 2.86-2.56 5.65-6.35 7.84z"
-                    fill="url(#sidepanel1__Radial_Gradient_1-2)"
+                    fill="url(#homepagesidepanel11__Radial_Gradient_1-2)"
                   />
                   <path
                     d="M598.57 534.92l-2.57 1.46c-8.65 5-22.7 5-31.4-.06l-17.56-10.24c-3.88-2.24-6-5.1-6.46-8-.58 3.68 1.58 7.47 6.46 10.29l17.56 10.25c8.7 5 22.75 5 31.4 0l2.53-1.46 30.69.06V535z"
-                    fill="url(#sidepanel1__Radial_Gradient_1-3)"
+                    fill="url(#homepagesidepanel11__Radial_Gradient_1-3)"
                   />
                 </g>
                 <g
@@ -2178,11 +2191,11 @@ function SvgComponent(props) {
                 >
                   <path
                     d="M781.81 513.5l-2.53 1.5v2.27l2.51-1.46c4.79-2.76 6.9-6.48 6.36-10.11-.43 2.82-2.55 5.61-6.34 7.8z"
-                    fill="url(#sidepanel1__Radial_Gradient_1-4)"
+                    fill="url(#homepagesidepanel11__Radial_Gradient_1-4)"
                   />
                   <path
                     d="M748.69 532.63l-56.14 31.88c-8.65 5-22.71 5-31.41-.06l-17.55-10.24c-3.88-2.24-6-5.1-6.46-8-.58 3.67 1.58 7.46 6.46 10.28l17.55 10.24c8.7 5 22.76 5 31.41.06l56.14-31.88 30.69.05v-2.27z"
-                    fill="url(#sidepanel1__Radial_Gradient_1-5)"
+                    fill="url(#homepagesidepanel11__Radial_Gradient_1-5)"
                   />
                 </g>
                 <path
@@ -2198,43 +2211,43 @@ function SvgComponent(props) {
                 <g fill="#fff" fillRule="evenodd">
                   <path d="M773.3 512.21l-2.6-1.51 1-.57c1.85-1.07 1.84-2.8 0-3.88l-7.81-4.51 1.14-.66c.93-.53.92-1.4 0-1.94a3.69 3.69 0 00-3.36 0l-2 1.16-8.32-3.48a11 11 0 00-8.92.7l-19.48 11.24c-2.55 1.47-3.07 3.67-1.21 5.15l6 4.8-2 1.17c-.93.53-.92 1.4 0 1.94a3.69 3.69 0 003.36 0l1.14-.66 7.81 4.52a7.44 7.44 0 006.72 0l1-.57 2.6 1.5a3.4 3.4 0 003.06 0l2.43-1.41a.93.93 0 000-1.76l-2.6-1.51 14-8.08 2.6 1.5a3.38 3.38 0 003 0l2.44-1.41a.93.93 0 000-1.73zm-31.95 8.71l-2.13 1.23a3.72 3.72 0 01-3.36 0 1 1 0 010-1.94L738 519a3.72 3.72 0 013.36 0c.91.52.92 1.39-.01 1.92zm-11.43-3.84l-5.44-4.33c-.85-.68-.47-1.81.86-2.57l19.48-11.25a5.64 5.64 0 014.45-.5l7.51 3.15zm18.83 2.22l-2.91-1.68 11.88-6.85 2.91 1.68zm16.81-12.3l-2.13 1.23a3.72 3.72 0 01-3.36 0c-.93-.54-.94-1.41 0-1.94l2.13-1.23a3.72 3.72 0 013.36 0 1 1 0 010 1.94zM726.97 501.63l-3.35 1.93 3.37 1.95 3.35-1.93-3.37-1.95zM733.39 501.82l3.35-1.94-3.37-1.94-3.35 1.93 3.37 1.95zM726.64 497.75l-3.35 1.93 3.38 1.95 3.34-1.93-3.37-1.95z" />
                 </g>
-              </g>
+              </motion.g>
               <g>
-                <g id="sidepanel1__box1">
+                <g id="homepagesidepanel11__box1">
                   <path
                     opacity={0.2}
                     d="M150.73 603.73l36.95 21.67 38.89-22.87-37.04-21.56-38.8 22.76z"
                   />
                   <path
-                    fill="url(#sidepanel1__New_Gradient_Swatch_copy_8-2)"
+                    fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_8-2)"
                     d="M186.9 587.35v36.02l34.74-20.13v-36.31l-34.74 20.42z"
                   />
                   <path
-                    fill="url(#sidepanel1__New_Gradient_Swatch_copy_8-3)"
+                    fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_8-3)"
                     d="M186.94 587.35v36.02l-32.98-19.06v-36.3l32.98 19.34z"
                   />
                   <path
-                    fill="url(#sidepanel1__linear-gradient-15)"
+                    fill="url(#homepagesidepanel11__linear-gradient-15)"
                     d="M176.56 600.04v14.67l-21.36-12.09v-14.96l21.36 12.38z"
                   />
                   <path
-                    fill="url(#sidepanel1__New_Gradient_Swatch_copy_8-4)"
+                    fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_8-4)"
                     d="M153.96 568.01l32.98 19.34 34.7-20.42-33.05-19.24-34.63 20.32z"
                   />
                   <path
-                    fill="url(#sidepanel1__linear-gradient-16)"
+                    fill="url(#homepagesidepanel11__linear-gradient-16)"
                     d="M201.63 578.84v9.66l7.85-4.49v-9.94l-7.85 4.77z"
                   />
                   <path
-                    fill="url(#sidepanel1__linear-gradient-17)"
+                    fill="url(#homepagesidepanel11__linear-gradient-17)"
                     d="M168.7 559.5l32.98 19.34 7.8-4.77-33.05-19.24-7.73 4.67z"
                   />
                   <path
-                    fill="url(#sidepanel1__linear-gradient-18)"
+                    fill="url(#homepagesidepanel11__linear-gradient-18)"
                     d="M193.5 600.42l-2.75 8.52 1.78-1.03v10.17l1.94-1.12v-10.17l1.78-1.03-2.75-5.34z"
                   />
                   <path
-                    fill="url(#sidepanel1__linear-gradient-19)"
+                    fill="url(#homepagesidepanel11__linear-gradient-19)"
                     d="M202.94 601.9l-2.75-5.34-2.75 8.52 1.78-1.03v10.16l1.94-1.11v-10.17l1.78-1.03z"
                   />
                   <g
@@ -2246,47 +2259,47 @@ function SvgComponent(props) {
                     <path d="M157.5 602.47l-1.07-.61v-11.29l1.07.61v11.29zM159.27 601.59l-1.07-.62v-9.38l1.07.61v9.39zM161.99 603.16l-1.07-.62v-9.38l1.07.61v9.39zM160.34 602.21l-.48-.28v-9.39l.48.28v9.39zM163.53 604.05l-1.07-.62v-9.39l1.07.62v9.39zM164.31 604.5l-.36-.21v-9.38l.36.2v9.39zM170.39 608.01l-.35-.2v-9.39l.35.21v9.38zM167.54 606.37l-.83-.48v-9.39l.83.48v9.39zM166.04 605.5l-1.07-.62v-9.38l1.07.61v9.39zM169.55 607.53l-1.3-.76v-9.38l1.3.75v9.39zM171.8 608.82l-.83-.48v-9.38l.83.48v9.38zM173.57 609.85l-1.07-.62v-9.39l1.07.62v9.39zM175.1 612.64l-.83-.48v-11.29l.83.48v11.29z" />
                   </g>
                 </g>
-                <g id="sidepanel1__box2">
+                <g id="homepagesidepanel11__box2">
                   <path
-                    fill="url(#sidepanel1__New_Gradient_Swatch_copy_8-5)"
+                    fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_8-5)"
                     d="M188.58 553.64V576l-21.57-12.5v-22.54l21.57 12.68z"
                   />
                   <path
-                    fill="url(#sidepanel1__New_Gradient_Swatch_copy_8-6)"
+                    fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_8-6)"
                     d="M188.56 553.64V576l20.47-11.83v-22.54l-20.47 12.01z"
                   />
                   <path
-                    fill="url(#sidepanel1__New_Gradient_Swatch_copy_8-7)"
+                    fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_8-7)"
                     d="M209.03 541.63l-20.47 12.01-21.55-12.68 20.52-11.94 21.5 12.61z"
                   />
                   <path
-                    fill="url(#sidepanel1__linear-gradient-20)"
+                    fill="url(#homepagesidepanel11__linear-gradient-20)"
                     d="M179.43 548.35v6l-4.87-2.78v-6.18l4.87 2.96z"
                   />
                   <path
-                    fill="url(#sidepanel1__linear-gradient-21)"
+                    fill="url(#homepagesidepanel11__linear-gradient-21)"
                     d="M199.88 536.35l-20.47 12-4.85-2.96 20.52-11.94 4.8 2.9z"
                   />
                   <path
-                    fill="url(#sidepanel1__linear-gradient-22)"
+                    fill="url(#homepagesidepanel11__linear-gradient-22)"
                     d="M184.48 561.75l1.71 5.3-1.11-.64v6.31l-1.2-.7v-6.31l-1.11-.64 1.71-3.32z"
                   />
                   <path
-                    fill="url(#sidepanel1__linear-gradient-23)"
+                    fill="url(#homepagesidepanel11__linear-gradient-23)"
                     d="M178.62 562.67l1.71-3.31 1.71 5.29-1.11-.64v6.31l-1.2-.7v-6.31l-1.11-.64z"
                   />
                 </g>
-                <g id="sidepanel1__van">
+                <g id="homepagesidepanel11__van">
                   <path
                     d="M396.38 628.9l.46 7.09a1.41 1.41 0 002.16 1.11l4.49-2.75a1.41 1.41 0 00.66-1.39l-.91-7.06a1.41 1.41 0 00-2.19-1l-4 2.72a1.43 1.43 0 00-.67 1.28z"
-                    fill="url(#sidepanel1__New_Gradient_Swatch_copy_33)"
+                    fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_33)"
                   />
                   <path
                     d="M397.61 637l-.46-7.09a1.46 1.46 0 01.62-1.27l4-2.72a1.37 1.37 0 011.39-.1 1.4 1.4 0 00-2.16-.89l-4 2.72a1.43 1.43 0 00-.62 1.27l.46 7.09a1.39 1.39 0 00.81 1.18c-.01-.08-.03-.14-.04-.19z"
                     style={{
                       mixBlendMode: "color-dodge",
                     }}
-                    fill="url(#sidepanel1__Radial_Gradient_1-6)"
+                    fill="url(#homepagesidepanel11__Radial_Gradient_1-6)"
                   />
                   <path
                     d="M202.54 626.8l130.79 75.54a55.72 55.72 0 0055.45-.13l23.52-13.57a3.58 3.58 0 000-6.2l-156-91.06a3.59 3.59 0 00-3.6 0l-50.19 29.22a3.58 3.58 0 00.03 6.2z"
@@ -2298,7 +2311,7 @@ function SvgComponent(props) {
                   />
                   <path
                     d="M252.56 633.78c0 3.44-1.19 5.88-3.12 7.06l-6.16 3.57c-2 1.13-.73-1.42-3.78-3.19-6.15-3.54-11.13-12.14-11.13-19.19 0-3.48-3.22-3.51-1.25-4.68l6.55-3.62c2-1.08 4.74-.88 7.77.86 6.14 3.55 11.12 12.14 11.12 19.19z"
-                    fill="url(#sidepanel1__New_Gradient_Swatch_copy_11)"
+                    fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_11)"
                   />
                   <ellipse
                     cx={234.99}
@@ -2306,62 +2319,62 @@ function SvgComponent(props) {
                     rx={9.06}
                     ry={15.69}
                     transform="matrix(.86 -.5 .5 .86 -286.34 204.86)"
-                    fill="url(#sidepanel1__New_Gradient_Swatch_copy_38)"
+                    fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_38)"
                   />
                   <path
                     d="M235.53 618c-2.95-1.7-5.63-1.93-7.62-.93 1.86-.52 4.16-.14 6.66 1.3 6.14 3.55 11.12 12.14 11.12 19.19 0 3.67-1.35 6.2-3.51 7.28 2.71-.76 4.47-3.46 4.47-7.65 0-7.07-4.98-15.66-11.12-19.19z"
                     style={{
                       mixBlendMode: "screen",
                     }}
-                    fill="url(#sidepanel1__Radial_Gradient_1-7)"
+                    fill="url(#homepagesidepanel11__Radial_Gradient_1-7)"
                   />
                   <path
                     d="M236.77 622.32a12.55 12.55 0 00-1.41-1 9.93 9.93 0 00-1.32-.64 7 7 0 00-2.06-.51 4.53 4.53 0 00-2.38.39 4 4 0 00-1.25.91 4.52 4.52 0 00-.87 1.32 7.92 7.92 0 00-.68 3.42 10.43 10.43 0 00.07 1.24 15.42 15.42 0 00.76 3.44 18.9 18.9 0 007.73 10.11 6.57 6.57 0 005.19 1 .45.45 0 00.11 0c2-.66 3.25-2.71 3.25-5.83.02-4.91-3.08-10.73-7.14-13.85zm-6.46 8l-.88.08a1 1 0 01-.76-.48 1.71 1.71 0 01-.27-.6 11.07 11.07 0 01-.26-2.32 8.34 8.34 0 01.26-2 .35.35 0 01.19-.22c.2-.1.53 0 .81.35l1.89 2.34.77.95a1.53 1.53 0 01.36 1v.31c0 .31-.13.51-.36.53h-.25zm2.74-3.29l-.57-.7-1.9-2.37-.19-.23c-.4-.49-.48-1.16-.15-1.35l.11-.06h.11a3.76 3.76 0 012.26-.34 5.76 5.76 0 01.79.15 1.5 1.5 0 01.89 1.3v3.51c0 .31-.14.52-.38.52h-.23a.89.89 0 01-.74-.4zm4.16-2.8a16.34 16.34 0 013.27 4.06c.33.56.25 1.15-.15 1.18h-.25l-2.41.21a.93.93 0 01-.73-.44l-.24-.29a1.56 1.56 0 01-.38-1v-3.51a.49.49 0 01.05-.25c.11-.19.47-.26.84.07zm4.08 13l-2.66-3.3a1.58 1.58 0 01-.36-.94 1.29 1.29 0 000-.32.57.57 0 01.08-.34.35.35 0 01.28-.19l2.66-.23c.4 0 .91.5 1 1.08a11.75 11.75 0 01.25 2.32 7.78 7.78 0 01-.25 2 .39.39 0 01-.56.26 1.17 1.17 0 01-.44-.29zm-6.89.58c0 .4-.26.58-.58.46a.81.81 0 01-.31-.19 16.34 16.34 0 01-3.27-4.06 1.1 1.1 0 01-.14-1 .35.35 0 01.29-.19l1.16-.1 1.5-.13a1 1 0 01.74.44 3.25 3.25 0 00.23.29 1.56 1.56 0 01.38 1zm6.08 2.12a3.16 3.16 0 01-.68.29 3.74 3.74 0 01-1.51.18 5.41 5.41 0 01-1.08-.18 1.48 1.48 0 01-.89-1.3v-3.51a.64.64 0 01.08-.33.32.32 0 01.3-.19h.24a.89.89 0 01.73.41l2.66 3.3c.4.52.48 1.2.15 1.4z"
                     style={{
                       mixBlendMode: "multiply",
                     }}
-                    fill="url(#sidepanel1__linear-gradient-24)"
+                    fill="url(#homepagesidepanel11__linear-gradient-24)"
                   />
                   <path
                     d="M236.41 622.66a12.29 12.29 0 00-1.58-1.08 11.56 11.56 0 00-1.11-.56 7.32 7.32 0 00-2.13-.58 5 5 0 00-2 .16 4.2 4.2 0 00-1.28.66 4.64 4.64 0 00-1.44 1.92 8 8 0 00-.61 3.28 13 13 0 00.09 1.51 16.29 16.29 0 00.81 3.4 18.91 18.91 0 007.67 9.86c2.21 1.27 4.22 1.48 5.74.78a.24.24 0 00.1 0c1.67-.82 2.72-2.78 2.72-5.61.01-4.85-3.01-10.6-6.98-13.74zm2.17 18a4.89 4.89 0 01-1.9-.17 1.47 1.47 0 01-.89-1.3v-3.51c0-.31.14-.51.38-.52a.86.86 0 00.23 0 .9.9 0 01.74.42l2.66 3.29c.39.5.47 1.17.15 1.36l-.15.07a3.5 3.5 0 01-1.21.38zm-10.72-11.08a11.77 11.77 0 01-.25-2.33 3.62 3.62 0 010-.47 6.73 6.73 0 01.23-1.56.37.37 0 01.55-.25.79.79 0 01.25.14 2.49 2.49 0 01.23.23l.11.14 1.91 2.36.64.79a1.61 1.61 0 01.36 1 .81.81 0 000 .16.92.92 0 000 .16.58.58 0 01-.08.33.33.33 0 01-.28.2l-1.17.1-1.49.12a.83.83 0 01-.63-.31 1.61 1.61 0 01-.38-.82zm2-5.59c-.4-.5-.48-1.17-.15-1.36a3.23 3.23 0 01.64-.27h.11a4.12 4.12 0 012-.09l.53.12a1.47 1.47 0 01.89 1.3v3.51a.53.53 0 01-.08.32.34.34 0 01-.3.2 1 1 0 00-.24 0 .89.89 0 01-.73-.42l-.43-.54-1.92-2.36zm-.15 10.3c-.33-.56-.25-1.14.15-1.18h.24l1.54-.13.88-.07a.93.93 0 01.73.43l.24.3a1.55 1.55 0 01.38.95v3.52a.47.47 0 01-.05.24c-.1.32-.47.35-.84 0a16.21 16.21 0 01-3.27-4.07zm7.43-4.34a1 1 0 01-.74-.43l-.23-.3a1.55 1.55 0 01-.38-1v-3.52c0-.4.26-.58.58-.46a1 1 0 01.31.19 16.21 16.21 0 013.27 4.07 1.07 1.07 0 01.13 1 .34.34 0 01-.28.19zm3.62 7.55l-2.66-3.3a1.5 1.5 0 01-.36-.94v-.32c0-.31.13-.51.36-.53h.25l2.41-.2c.4 0 .91.49 1 1.07a11.07 11.07 0 01.25 2.33 7.47 7.47 0 01-.25 2c-.13.39-.61.39-1-.12z"
-                    fill="url(#sidepanel1__linear-gradient-25)"
+                    fill="url(#homepagesidepanel11__linear-gradient-25)"
                   />
                   <path
                     d="M358.11 694.3c0 3.44-1.19 5.88-3.12 7.06l-6.16 3.57c-2 1.12-.73-1.43-3.78-3.19-6.14-3.55-11.13-12.14-11.13-19.19 0-3.49-3.22-3.52-1.24-4.68l6.54-3.62c2-1.09 4.74-.89 7.77.86 6.14 3.54 11.12 12.13 11.12 19.19z"
-                    fill="url(#sidepanel1__New_Gradient_Swatch_copy_11-2)"
+                    fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_11-2)"
                   />
                   <path
                     d="M351.67 698c0 7-5 9.89-11.13 6.35s-11.12-12.14-11.12-19.19 5-9.89 11.12-6.35 11.13 12.09 11.13 19.19z"
-                    fill="url(#sidepanel1__New_Gradient_Swatch_copy_38-2)"
+                    fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_38-2)"
                   />
                   <path
                     d="M341.08 678.5c-2.95-1.7-5.62-1.93-7.62-.94 1.86-.52 4.16-.13 6.66 1.31 6.14 3.55 11.12 12.14 11.12 19.19 0 3.67-1.35 6.2-3.51 7.28 2.71-.76 4.47-3.46 4.47-7.65 0-7.06-4.98-15.69-11.12-19.19z"
                     style={{
                       mixBlendMode: "screen",
                     }}
-                    fill="url(#sidepanel1__Radial_Gradient_1-8)"
+                    fill="url(#homepagesidepanel11__Radial_Gradient_1-8)"
                   />
                   <path
                     d="M340.91 681.88c-2.22-1.28-4.24-1.48-5.76-.76a4 4 0 00-1.24.9 6.73 6.73 0 00-1.55 4.74c0 5.42 3.84 12 8.57 14.77a6.69 6.69 0 005.2 1c2-.63 3.33-2.69 3.33-5.86.02-5.44-3.82-12.06-8.55-14.79zm-2.31 5.69l-2.66-3.29c-.39-.49-.47-1.17-.15-1.36l.15-.07a4.21 4.21 0 013.12-.21 1.47 1.47 0 01.89 1.3v3.51c0 .31-.14.51-.38.52h-.23a.9.9 0 01-.74-.4zm7.28 2.45h-.24l-2.42.2a.93.93 0 01-.73-.43l-.24-.3a1.51 1.51 0 01-.38-1v-3.51a.49.49 0 01.05-.25c.11-.32.47-.35.84 0a16.16 16.16 0 013.27 4.06c.33.61.25 1.21-.15 1.21zm1 7.77l-2.66-3.29a1.61 1.61 0 01-.36-1 .81.81 0 000-.16.92.92 0 000-.16.56.56 0 01.08-.33.33.33 0 01.28-.19l2.66-.23c.4 0 .92.5 1 1.07a11.77 11.77 0 01.25 2.33 7.89 7.89 0 01-.25 2 .38.38 0 01-.56.25 1.06 1.06 0 01-.48-.29zM335 685.63l2.66 3.3a1.52 1.52 0 01.36.94v.32c0 .31-.13.51-.36.53h-.25l-1.53.13-.88.07c-.4 0-.91-.49-1-1.07a11 11 0 01-.25-2.32 7.5 7.5 0 01.25-2 .34.34 0 01.18-.22c.19-.16.52-.02.82.32zm5 12.75c0 .4-.26.58-.58.46a1 1 0 01-.31-.19 16.34 16.34 0 01-3.27-4.06 1.09 1.09 0 01-.13-1 .34.34 0 01.28-.19l1.16-.1 1.5-.13a.93.93 0 01.74.44c.07.1.15.19.23.29a1.55 1.55 0 01.38 1zm6 2.12a3.51 3.51 0 01-.77.33 3.89 3.89 0 01-1.42.14 4.81 4.81 0 01-1.08-.19 1.47 1.47 0 01-.89-1.29V696a.53.53 0 01.08-.32.32.32 0 01.3-.19h.24a.88.88 0 01.73.41l2.66 3.29c.43.45.51 1.12.15 1.31z"
                     style={{
                       mixBlendMode: "multiply",
                     }}
-                    fill="url(#sidepanel1__linear-gradient-26)"
+                    fill="url(#homepagesidepanel11__linear-gradient-26)"
                   />
                   <path
                     d="M340.38 682.09a6.62 6.62 0 00-5.23-1 3.76 3.76 0 00-1.27.66c-1.28 1-2.05 2.76-2.05 5.19 0 5.43 3.84 12 8.57 14.78 2.2 1.27 4.21 1.48 5.73.77 1.72-.81 2.8-2.78 2.8-5.65.07-5.4-3.82-12.01-8.55-14.75zm1 3.17c0-.4.26-.58.58-.46a.81.81 0 01.31.19 16.34 16.34 0 013.27 4.06 1.1 1.1 0 01.14 1 .35.35 0 01-.29.19l-2.66.23a1 1 0 01-.73-.47 3.25 3.25 0 00-.23-.29 1.56 1.56 0 01-.38-1zm0 10.93c0-.31.14-.52.38-.52h.23a.89.89 0 01.74.41l2.66 3.3c.4.49.48 1.17.15 1.35l-.24.12a3.52 3.52 0 01-1.13.33 4.87 4.87 0 01-1.9-.16 1.5 1.5 0 01-.89-1.3zm-7.93-10.46a.39.39 0 01.56-.26.6.6 0 01.24.14 1.28 1.28 0 01.24.23l2.66 3.3a1.58 1.58 0 01.36.94.92.92 0 000 .16.81.81 0 000 .16.57.57 0 01-.08.34.35.35 0 01-.28.19l-1.18.1-1.48.13c-.4 0-.91-.5-1-1.08a11.75 11.75 0 01-.25-2.32 7.83 7.83 0 01.17-2.03zm2 7.89h.25l1.52-.13.88-.08a.93.93 0 01.73.44l.24.29a1.56 1.56 0 01.38 1v3.51a.49.49 0 01-.05.25c-.11.31-.47.35-.84 0a16.34 16.34 0 01-3.27-4.06c-.36-.6-.29-1.19.12-1.22zm-.15-10.48a3.16 3.16 0 01.68-.29 4.38 4.38 0 012.59 0 1.5 1.5 0 01.89 1.3v3.51a.64.64 0 01-.08.33.32.32 0 01-.3.19h-.24a.89.89 0 01-.73-.41l-2.66-3.3c-.45-.47-.52-1.15-.19-1.33zM346.31 698l-2.66-3.3a1.52 1.52 0 01-.36-.94v-.32c0-.31.13-.51.36-.53h.25l2.41-.21c.4 0 .91.5 1 1.08a11.07 11.07 0 01.26 2.32 7.41 7.41 0 01-.26 2c-.13.46-.61.38-1-.1z"
-                    fill="url(#sidepanel1__linear-gradient-27)"
+                    fill="url(#homepagesidepanel11__linear-gradient-27)"
                   />
                   <path
                     d="M412.76 658.63l-42.89-66.33a7.29 7.29 0 00-2.44-2.31l-114.36-65.85a7.2 7.2 0 00-7-.07l-32.25 17.65a7.24 7.24 0 00-3.25 3.69l-9.85 21a7.07 7.07 0 00-.49 2.49l-.75 38.68a7.2 7.2 0 003.65 6.4l20.18 11.43a18.82 18.82 0 01-.29-3.23c0-8 5.64-11.19 12.59-7.17s12.59 13.73 12.59 21.71a13.77 13.77 0 01-.24 2.66l79.53 44.86c-.05-.54-.08-1.08-.08-1.61 0-8 5.64-11.19 12.59-7.18s12.59 13.74 12.59 21.72c0 .44 0 .86-.05 1.27l4.71 2.67a7.21 7.21 0 006.74.19l46-22.71a7.21 7.21 0 004-6.46v-9.56a7.16 7.16 0 00-1.23-3.94z"
-                    fill="url(#sidepanel1__New_Gradient_Swatch_copy_33-2)"
+                    fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_33-2)"
                   />
                   <path
                     d="M362.18 681.34l-6.28-19.23-25.9-49.18a11.11 11.11 0 00-4.49-4.79L213 543.44c-.39.48.24.8 0 1.38l111.33 64a11.21 11.21 0 014.5 4.8l25.94 49.18 6.28 19.23a12 12 0 011.26 5.36v14.15c.69.07.45.27 1.13.15v-15a12 12 0 00-1.26-5.35z"
                     style={{
                       mixBlendMode: "color-dodge",
                     }}
-                    fill="url(#sidepanel1__Radial_Gradient_1-9)"
+                    fill="url(#homepagesidepanel11__Radial_Gradient_1-9)"
                   />
                   <path
                     d="M345.77 631.66l11-4a78 78 0 0020-10.76l2.9-2.16a2.78 2.78 0 014 .69l15.1 22.73a2.78 2.78 0 01-.77 3.85l-7.7 5.16a87.51 87.51 0 01-19.14 9.66L359 661.18a2.79 2.79 0 01-3.46-1.44l-11.34-24.28a2.78 2.78 0 011.57-3.8z"
@@ -2369,14 +2382,14 @@ function SvgComponent(props) {
                   />
                   <path
                     d="M347.33 632.24l10.44-3.78a74.46 74.46 0 0019.05-10.26l2.76-2.06a2.66 2.66 0 013.79.66l14.39 21.66a2.65 2.65 0 01-.73 3.67l-7.34 4.92a83.48 83.48 0 01-18.24 9.2L360 660.37a2.65 2.65 0 01-3.29-1.37l-10.84-23.14a2.66 2.66 0 011.46-3.62z"
-                    fill="url(#sidepanel1__New_Gradient_Swatch_copy_37)"
+                    fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_37)"
                   />
                   <path
                     d="M321.67 625.39l.64 21.34a1.55 1.55 0 00.77 1.29l25.64 14.68v-3.62l-13.09-28.72L324 624a1.54 1.54 0 00-2.33 1.39z"
                     fill="#4d4d4d"
                   />
                   <path
-                    fill="url(#sidepanel1__New_Gradient_Swatch_copy_37-2)"
+                    fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_37-2)"
                     d="M323.03 624.83l.65 21.61 18.63 10.78-.51-10.69-6.58-15.05-12.19-6.65z"
                   />
                   <path
@@ -2385,25 +2398,25 @@ function SvgComponent(props) {
                   />
                   <path
                     d="M360 685.07a8.51 8.51 0 008.06.44 4 4 0 015.54 2.49l1.26 4.26-6.55 2.59a8.5 8.5 0 01-6.76-.22l-1.83-.87z"
-                    fill="url(#sidepanel1__linear-gradient-28)"
+                    fill="url(#homepagesidepanel11__linear-gradient-28)"
                   />
                   <path
                     d="M360 685.07a8.51 8.51 0 008.06.44 4 4 0 015.54 2.49l1.26 4.26-7.58-.35c-7.42-1.56-7.28-6.84-7.28-6.84z"
                     style={{
                       mixBlendMode: "multiply",
                     }}
-                    fill="url(#sidepanel1__linear-gradient-29)"
+                    fill="url(#homepagesidepanel11__linear-gradient-29)"
                   />
                   <path
                     d="M409.53 668l-.58 6.22s5.32-3.3 5.64-4.58-.21-9.11-.21-9.11l-1.54 1.86a7.65 7.65 0 00-3.31 5.61z"
-                    fill="url(#sidepanel1__linear-gradient-30)"
+                    fill="url(#homepagesidepanel11__linear-gradient-30)"
                   />
                   <path
                     d="M409.53 668l-.58 6.22s3.4-5.78 3.72-7 1.71-6.64 1.71-6.64l-1.54 1.86a7.65 7.65 0 00-3.31 5.56z"
                     style={{
                       mixBlendMode: "multiply",
                     }}
-                    fill="url(#sidepanel1__linear-gradient-31)"
+                    fill="url(#homepagesidepanel11__linear-gradient-31)"
                   />
                   <path
                     d="M398.7 638.19l-1.52-2.29a3.12 3.12 0 01-1.34 2.18l-8.66 5.8a98.13 98.13 0 01-21.52 10.86L355 658.55l.56 1.19a2.79 2.79 0 003.46 1.44l12.06-4.32a87.51 87.51 0 0019.14-9.66l7.7-5.16a2.78 2.78 0 00.78-3.85z"
@@ -2414,14 +2427,14 @@ function SvgComponent(props) {
                     style={{
                       mixBlendMode: "color-dodge",
                     }}
-                    fill="url(#sidepanel1__linear-gradient-32)"
+                    fill="url(#homepagesidepanel11__linear-gradient-32)"
                   />
                   <path
                     style={{
                       mixBlendMode: "color-dodge",
                     }}
                     opacity={0.7}
-                    fill="url(#sidepanel1__linear-gradient-33)"
+                    fill="url(#homepagesidepanel11__linear-gradient-33)"
                     d="M331.06 608.88l33.35-18.99-114.26-65.26-33.35 18.67 114.26 65.58z"
                   />
                   <path
@@ -2429,90 +2442,90 @@ function SvgComponent(props) {
                     style={{
                       mixBlendMode: "multiply",
                     }}
-                    fill="url(#sidepanel1__linear-gradient-34)"
+                    fill="url(#homepagesidepanel11__linear-gradient-34)"
                   />
                   <path
                     d="M332.84 654.63l.71 8.46a1.9 1.9 0 002.65 1.58l9.2-2.78a1.88 1.88 0 001.11-2l-3-7.92a1.9 1.9 0 00-2.46-1.53l-6.88 2.23a1.9 1.9 0 00-1.33 1.96z"
-                    fill="url(#sidepanel1__New_Gradient_Swatch_copy_33-3)"
+                    fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_33-3)"
                   />
                   <path
                     d="M335.33 664.11l-.71-8.46a1.88 1.88 0 011.3-2l6.88-2.23a1.63 1.63 0 01.48-.09 1.89 1.89 0 00-2.26-.94l-6.88 2.23a1.9 1.9 0 00-1.3 2l.71 8.46a1.89 1.89 0 002 1.72 1.79 1.79 0 01-.22-.69z"
                     style={{
                       mixBlendMode: "color-dodge",
                     }}
-                    fill="url(#sidepanel1__Radial_Gradient_1-10)"
+                    fill="url(#homepagesidepanel11__Radial_Gradient_1-10)"
                   />
                   <path
                     d="M331.66 674.22l-87.33-50.07a25.65 25.65 0 013.82 12.55 13.77 13.77 0 01-.24 2.66l79.53 44.86c-.05-.54-.08-1.08-.08-1.61 0-4.34 1.64-7.26 4.3-8.39z"
                     style={{
                       mixBlendMode: "multiply",
                     }}
-                    fill="url(#sidepanel1__linear-gradient-35)"
+                    fill="url(#homepagesidepanel11__linear-gradient-35)"
                   />
                   <path
                     d="M223 622.16c0-4 1.45-6.85 3.78-8.13l-27.14-15.61-.18 9.14a7.2 7.2 0 003.65 6.4l20.18 11.43a18.82 18.82 0 01-.29-3.23z"
                     style={{
                       mixBlendMode: "multiply",
                     }}
-                    fill="url(#sidepanel1__linear-gradient-36)"
+                    fill="url(#homepagesidepanel11__linear-gradient-36)"
                   />
                   <path
                     d="M351.39 690.42l9.55 5.07a13.55 13.55 0 0010.91.37L379 693a132.39 132.39 0 0031.1-17.64l5.74-4.64v8.61a4.33 4.33 0 01-1.63 3.39l-.76.61c-13.44 8.86-25.89 16.23-41.6 22.1a13.54 13.54 0 01-10.59-1l-9.26-5.58z"
-                    fill="url(#sidepanel1__New_Gradient_Swatch_copy_33-4)"
+                    fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_33-4)"
                   />
                   <path
                     d="M372.41 688.18l-2.27 4.8s-6.91-4.27-6.22-5.75 8.49.95 8.49.95z"
-                    fill="url(#sidepanel1__linear-gradient-37)"
+                    fill="url(#homepagesidepanel11__linear-gradient-37)"
                   />
                   <path
                     d="M369.4 691.58c0 1.21.86 1.7 1.91 1.09a4.19 4.19 0 001.91-3.29c0-1.21-.85-1.7-1.91-1.09a4.22 4.22 0 00-1.91 3.29z"
-                    fill="url(#sidepanel1__linear-gradient-38)"
+                    fill="url(#homepagesidepanel11__linear-gradient-38)"
                   />
                   <path
                     d="M367.71 689.14l-1.8 3.81s-5.5-3.39-5-4.57 6.8.76 6.8.76z"
-                    fill="url(#sidepanel1__linear-gradient-39)"
+                    fill="url(#homepagesidepanel11__linear-gradient-39)"
                   />
                   <path
                     d="M365.32 691.84c0 1 .68 1.35 1.52.87a3.34 3.34 0 001.52-2.62c0-1-.68-1.35-1.52-.86a3.32 3.32 0 00-1.52 2.61z"
-                    fill="url(#sidepanel1__linear-gradient-40)"
+                    fill="url(#homepagesidepanel11__linear-gradient-40)"
                   />
                   <path
                     d="M413.34 667.16l-1.55 3.27s-2.64-2-2.17-3 3.72-.27 3.72-.27z"
-                    fill="url(#sidepanel1__linear-gradient-41)"
+                    fill="url(#homepagesidepanel11__linear-gradient-41)"
                   />
                   <path
                     d="M411.29 669.48c0 .83.58 1.16 1.3.75a2.89 2.89 0 001.3-2.25c0-.83-.58-1.16-1.3-.75a2.89 2.89 0 00-1.3 2.25z"
-                    fill="url(#sidepanel1__linear-gradient-42)"
+                    fill="url(#homepagesidepanel11__linear-gradient-42)"
                   />
                   <path
                     d="M414 664.45l-1.13 2.39s-1.93-1.46-1.59-2.2 2.72-.19 2.72-.19z"
-                    fill="url(#sidepanel1__linear-gradient-43)"
+                    fill="url(#homepagesidepanel11__linear-gradient-43)"
                   />
                   <path
                     d="M412.47 666.15c0 .6.43.84.95.54a2.08 2.08 0 00.95-1.64c0-.6-.42-.85-.95-.54a2.11 2.11 0 00-.95 1.64z"
-                    fill="url(#sidepanel1__linear-gradient-44)"
+                    fill="url(#homepagesidepanel11__linear-gradient-44)"
                   />
                   <path
                     d="M364.45 686.3a8.5 8.5 0 01-4.44-1.23l-.29 8.67 1.83.87a8.49 8.49 0 003.76.8z"
-                    fill="url(#sidepanel1__New_Gradient_Swatch_copy_39)"
+                    fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_39)"
                   />
                   <path
                     d="M375.75 684l.92 2.46a3.57 3.57 0 004.92 2c3.4-1.69 8.66-4.37 13.05-7 4.89-2.9 8.92-5.53 11-6.9a3.55 3.55 0 001.58-2.76l.26-4.52a1 1 0 00-1.55-.9c-2.87 1.91-8.91 5.85-14 8.78-5.74 3.26-13.08 6.52-15.57 7.6a1 1 0 00-.61 1.24z"
-                    fill="url(#sidepanel1__linear-gradient-45)"
+                    fill="url(#homepagesidepanel11__linear-gradient-45)"
                   />
                   <path
                     d="M406.54 666.17a1 1 0 01.11.52l-.26 4.52a3.52 3.52 0 01-1.58 2.75c-2.05 1.38-6.07 4-11 6.91-4.39 2.6-9.65 5.29-13 7a3.54 3.54 0 01-3.14 0 3.58 3.58 0 003.94.53c3.4-1.69 8.66-4.37 13.05-7 4.89-2.9 8.92-5.53 11-6.9a3.55 3.55 0 001.58-2.76l.26-4.52a1 1 0 00-.96-1.05z"
                     style={{
                       mixBlendMode: "color-dodge",
                     }}
-                    fill="url(#sidepanel1__Radial_Gradient_1-11)"
+                    fill="url(#homepagesidepanel11__Radial_Gradient_1-11)"
                   />
                   <path
                     d="M401.36 643.57s8.73 12.78 8.09 15.55-14.25 11.3-21.45 14.59-20.43 9.3-23.51 7.17-5.74-17.54-5.74-17.54a175.06 175.06 0 0025.12-9c12.53-5.78 17.49-10.77 17.49-10.77z"
                     style={{
                       mixBlendMode: "color-dodge",
                     }}
-                    fill="url(#sidepanel1__linear-gradient-46)"
+                    fill="url(#homepagesidepanel11__linear-gradient-46)"
                   />
                   <path
                     d="M397.63 646.73l-.08-.12a1 1 0 00-1.51-.13l-.23.18-5.5 3.68a62.17 62.17 0 01-13.69 6.91l-6 2.14a.76.76 0 00-.43 1 1.78 1.78 0 002.2.92l7.67-2.75a55.61 55.61 0 0012.17-6.14l4.89-3.28a1.77 1.77 0 00.51-2.41z"
@@ -2522,12 +2535,12 @@ function SvgComponent(props) {
                     style={{
                       mixBlendMode: "screen",
                     }}
-                    fill="url(#sidepanel1__linear-gradient-47)"
+                    fill="url(#homepagesidepanel11__linear-gradient-47)"
                     d="M200.26 581.25l146.5 82.66 4.46 11.12-151.06-84.85.1-8.93z"
                   />
                   <path
                     d="M198.71 599.23l5.15 2.69v13a9 9 0 01-5.34-8.49z"
-                    fill="url(#sidepanel1__linear-gradient-48)"
+                    fill="url(#homepagesidepanel11__linear-gradient-48)"
                   />
                   <path
                     style={{
@@ -2540,7 +2553,7 @@ function SvgComponent(props) {
                     style={{
                       mixBlendMode: "color-dodge",
                     }}
-                    fill="url(#sidepanel1__Radial_Gradient_1-12)"
+                    fill="url(#homepagesidepanel11__Radial_Gradient_1-12)"
                     d="M333.48 623.6l-125.11-71.97-.47.83 81.78 47.04v53.08h.96v-52.53l28.08 16.16v53.28h.96v-52.73l13.32 7.67.48-.83z"
                   />
                   <g>
@@ -2549,11 +2562,11 @@ function SvgComponent(props) {
                       style={{
                         mixBlendMode: "multiply",
                       }}
-                      fill="url(#sidepanel1__linear-gradient-49)"
+                      fill="url(#homepagesidepanel11__linear-gradient-49)"
                     />
                     <path
                       d="M328.25 657c.55 1.11-.45 1.29-2.23.39a10.63 10.63 0 01-4.23-3.64c-.55-1.11.45-1.29 2.23-.39a10.63 10.63 0 014.23 3.64z"
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_33-5)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_33-5)"
                     />
                   </g>
                   <g>
@@ -2562,11 +2575,11 @@ function SvgComponent(props) {
                       style={{
                         mixBlendMode: "multiply",
                       }}
-                      fill="url(#sidepanel1__linear-gradient-50)"
+                      fill="url(#homepagesidepanel11__linear-gradient-50)"
                     />
                     <path
                       d="M315.8 650.29c.55 1.11-.45 1.29-2.23.39a10.7 10.7 0 01-4.23-3.64c-.55-1.11.45-1.29 2.24-.39a10.66 10.66 0 014.22 3.64z"
-                      fill="url(#sidepanel1__New_Gradient_Swatch_copy_33-6)"
+                      fill="url(#homepagesidepanel11__New_Gradient_Swatch_copy_33-6)"
                     />
                   </g>
                   <path
@@ -2581,7 +2594,7 @@ function SvgComponent(props) {
                     style={{
                       mixBlendMode: "color-dodge",
                     }}
-                    fill="url(#sidepanel1__White_Black_Radial)"
+                    fill="url(#homepagesidepanel11__White_Black_Radial)"
                   />
                 </g>
               </g>

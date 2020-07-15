@@ -18,6 +18,12 @@
 }
 @font-face {
   font-family: "Montserrat";
+  src: url("../fonts/Montserrat-SemiBold.otf");
+  font-style: normal;
+  font-weight: 600;
+}
+@font-face {
+  font-family: "Montserrat";
   src: url("../fonts/Montserrat-Bold.otf");
   font-style: normal;
   font-weight: 700;
@@ -35,5 +41,21 @@
   top: 0;
   width: 100%;
   background-color: #232323;
- 
+  z-index:999;
 }
+
+.unscrolled {
+  
+  position: absolute;
+  top: 0;
+  left:0;
+  right:0;
+  z-index:999;
+}
+
+.driversignupcard {
+  box-shadow: 3px 3px 10px rgba(0,0,0,0.25);
+  border-radius: 30px;
+  padding: 4vw 0 4vw 0;
+}
+
